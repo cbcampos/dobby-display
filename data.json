@@ -1,1 +1,1 @@
-{"mode":"message","messages":[{"text":"⏱ Timer test - $(date +%H:%M:%S)","size":"large"}]}
+{"mode": "message", "messages": [{"text": "Timer test 4:01 PM", "size": "large"}, {"text": "If you see this, the page refreshed", "size": "small"}]}
