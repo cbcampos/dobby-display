@@ -1,1 +1,17 @@
-{"mode": "message", "messages": [{"text": "Timer test 4:01 PM", "size": "large"}, {"text": "If you see this, the page refreshed", "size": "small"}]}
+{
+  "mode": "message",
+  "messages": [
+    {
+      "text": "⏱ Instant refresh test",
+      "size": ""
+    },
+    {
+      "text": "MUST SEE: 4 sec auto-update",
+      "size": ""
+    },
+    {
+      "text": "No manual refresh needed!",
+      "size": "large"
+    }
+  ]
+}
