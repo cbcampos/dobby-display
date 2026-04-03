@@ -2,16 +2,21 @@
   "mode": "message",
   "messages": [
     {
-      "text": "⏱ Instant refresh test",
+      "text": "🦸‍♂️ FRANKLIN!",
+      "size": "large",
+      "accent": true
+    },
+    {
+      "text": "You are my hero.",
+      "size": "small"
+    },
+    {
+      "text": "4 more days until you turn 5!",
       "size": ""
     },
     {
-      "text": "MUST SEE: 4 sec auto-update",
-      "size": ""
-    },
-    {
-      "text": "No manual refresh needed!",
-      "size": "large"
+      "text": "Party on April 11!",
+      "size": "small"
     }
   ]
 }
