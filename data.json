@@ -2,18 +2,33 @@
   "mode": "message",
   "messages": [
     {
-      "text": "Tailscale Connected!",
+      "text": "PREMIUM DARK",
       "size": "large",
       "accent": true
     },
     {
-      "text": "Instant updates via Tailscale",
+      "text": "Instant via Tailscale",
       "size": "small"
     },
     {
-      "text": "Premium Dark Design System v2",
-      "size": "",
-      "lime": true
+      "text": "CYAN ACCENT",
+      "accent": true,
+      "size": "small"
+    },
+    {
+      "text": "LIME LABEL",
+      "lime": true,
+      "size": "small"
+    },
+    {
+      "text": "MAGENTA",
+      "magenta": true,
+      "size": "small"
+    },
+    {
+      "text": "AMBER",
+      "amber": true,
+      "size": "small"
     }
   ]
 }
