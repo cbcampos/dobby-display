@@ -2,7 +2,7 @@
   "mode": "message",
   "messages": [
     {
-      "text": "✨ Premium Dark ✨",
+      "text": "PREMIUM DARK",
       "size": "large",
       "accent": true
     },
@@ -11,8 +11,24 @@
       "size": "small"
     },
     {
-      "text": "Instant. Beautiful. Yours.",
-      "size": ""
+      "text": "CYAN",
+      "size": "small",
+      "accent": true
+    },
+    {
+      "text": "LIME",
+      "size": "small",
+      "lime": true
+    },
+    {
+      "text": "MAGENTA",
+      "size": "small",
+      "magenta": true
+    },
+    {
+      "text": "AMBER",
+      "size": "small",
+      "amber": true
     }
   ]
 }
