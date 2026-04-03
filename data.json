@@ -1,1 +1,21 @@
-{"mode":"quickglance","clock":"3:34 PM","date":"Friday, April 3","weather_icon":"☀️","temp":"72","weather_desc":"Sunny","events":[{"time":"2:00 PM","name":"Pick Up Franklin","badge":"Family"}],"tasks":[{"name":"GIMPOP Newsletter","due":"Today","done":false},{"name":"Boston Marathon signup","due":"Apr 10","done":false}],"dinner":"Ground Turkey Enchiladas"}
+{
+  "mode": "message",
+  "messages": [
+    {
+      "text": "🎉 Franklin turns 4!",
+      "size": ""
+    },
+    {
+      "text": "4 DAYS",
+      "size": "large"
+    },
+    {
+      "text": "Birthday: April 7",
+      "size": "accent"
+    },
+    {
+      "text": "Party: April 11 🦸‍♂️",
+      "size": "small"
+    }
+  ]
+}
