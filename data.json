@@ -2,33 +2,18 @@
   "mode": "message",
   "messages": [
     {
-      "text": "PREMIUM DARK",
+      "text": "Tailscale Connected!",
       "size": "large",
       "accent": true
     },
     {
-      "text": "Dobby Display v2.0",
+      "text": "Instant updates via Tailscale",
       "size": "small"
     },
     {
-      "text": "CYAN",
-      "size": "small",
-      "accent": true
-    },
-    {
-      "text": "LIME",
-      "size": "small",
+      "text": "Premium Dark Design System v2",
+      "size": "",
       "lime": true
-    },
-    {
-      "text": "MAGENTA",
-      "size": "small",
-      "magenta": true
-    },
-    {
-      "text": "AMBER",
-      "size": "small",
-      "amber": true
     }
   ]
 }
