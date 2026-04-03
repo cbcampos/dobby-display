@@ -2,21 +2,17 @@
   "mode": "message",
   "messages": [
     {
-      "text": "🦸‍♂️ FRANKLIN!",
+      "text": "✨ Premium Dark ✨",
       "size": "large",
       "accent": true
     },
     {
-      "text": "You are my hero.",
+      "text": "Dobby Display v2.0",
       "size": "small"
     },
     {
-      "text": "4 more days until you turn 5!",
+      "text": "Instant. Beautiful. Yours.",
       "size": ""
-    },
-    {
-      "text": "Party on April 11!",
-      "size": "small"
     }
   ]
 }
