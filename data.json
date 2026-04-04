@@ -1,34 +1,75 @@
 {
-  "mode": "message",
-  "messages": [
-    {
-      "text": "PREMIUM DARK",
-      "size": "large",
-      "accent": true
-    },
-    {
-      "text": "Instant via Tailscale",
-      "size": "small"
-    },
-    {
-      "text": "CYAN ACCENT",
-      "accent": true,
-      "size": "small"
-    },
-    {
-      "text": "LIME LABEL",
-      "lime": true,
-      "size": "small"
-    },
-    {
-      "text": "MAGENTA",
-      "magenta": true,
-      "size": "small"
-    },
-    {
-      "text": "AMBER",
-      "amber": true,
-      "size": "small"
-    }
-  ]
+  "mode": "recipe",
+  "recipe": {
+    "title": "Chicken Stir-Fry with Veggies",
+    "emoji": "🍽️",
+    "time": "45 min",
+    "temp": "425°F",
+    "servings": "4 servings",
+    "ingredients": [
+      [
+        "",
+        "3 lbs chicken breast, sliced"
+      ],
+      [
+        "",
+        "3 bell peppers, sliced"
+      ],
+      [
+        "",
+        "3 cups broccoli florets"
+      ],
+      [
+        "",
+        "3 carrots, sliced"
+      ],
+      [
+        "",
+        "1 onion, sliced"
+      ],
+      [
+        "",
+        "4 garlic cloves, minced"
+      ],
+      [
+        "",
+        "3 tbsp oil"
+      ],
+      [
+        "",
+        "4 cups cooked jasmine rice"
+      ],
+      [
+        "",
+        "0.5 cup soy sauce"
+      ],
+      [
+        "",
+        "3 tbsp honey or brown sugar"
+      ],
+      [
+        "",
+        "2 tbsp rice vinegar"
+      ],
+      [
+        "",
+        "1 tbsp grated ginger"
+      ],
+      [
+        "",
+        "1 tbsp cornstarch + 3 tbsp water"
+      ]
+    ],
+    "steps": [
+      "Heat 1 tbsp oil in a wok or large skillet over high heat.",
+      "Stir-fry chicken until cooked through. Remove and set aside.",
+      "Add remaining oil and sauté garlic, bell peppers, broccoli, carrots, and onion until crisp-tender.",
+      "Return chicken to the wok.",
+      "Pour in sauce mixture and stir until thickened.",
+      "Serve over jasmine rice."
+    ]
+  },
+  "state": {
+    "step": 1
+  }
 }
