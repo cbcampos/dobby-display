@@ -1,7 +1,7 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Chicken Stir-Fry with Veggies",
+    "title": "White Chicken Chili with Cornbread",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
@@ -9,64 +9,71 @@
     "ingredients": [
       [
         "",
-        "3 lbs chicken breast, sliced"
+        "1.5 lbs chicken breast, cooked & shredded (or shredded rotisserie chicken)"
       ],
       [
         "",
-        "3 bell peppers, sliced"
+        "2 cans white kidney beans, drained"
       ],
       [
         "",
-        "3 cups broccoli florets"
+        "1 can black beans, drained"
       ],
       [
         "",
-        "3 carrots, sliced"
+        "1 can corn, drained"
       ],
       [
         "",
-        "1 onion, sliced"
+        "1 can diced green chilies"
       ],
       [
         "",
-        "4 garlic cloves, minced"
+        "1 onion, diced"
       ],
       [
         "",
-        "3 tbsp oil"
+        "3 cloves garlic, minced"
       ],
       [
         "",
-        "4 cups cooked jasmine rice"
+        "4 cups chicken broth"
       ],
       [
         "",
-        "0.5 cup soy sauce"
+        "1 tbsp cumin"
       ],
       [
         "",
-        "3 tbsp honey or brown sugar"
+        "1 tsp chili powder"
       ],
       [
         "",
-        "2 tbsp rice vinegar"
+        "1 tsp oregano"
       ],
       [
         "",
-        "1 tbsp grated ginger"
+        "Salt & pepper to taste"
       ],
       [
         "",
-        "1 tbsp cornstarch + 3 tbsp water"
+        "1 cup sour cream (add at end)"
+      ],
+      [
+        "",
+        "Shredded cheddar cheese (topping)"
+      ],
+      [
+        "",
+        "Cornbread (for serving)"
       ]
     ],
     "steps": [
-      "Heat 1 tbsp oil in a wok or large skillet over high heat.",
-      "Stir-fry chicken until cooked through. Remove and set aside.",
-      "Add remaining oil and sauté garlic, bell peppers, broccoli, carrots, and onion until crisp-tender.",
-      "Return chicken to the wok.",
-      "Pour in sauce mixture and stir until thickened.",
-      "Serve over jasmine rice."
+      "Sauté onion and garlic in olive oil until soft",
+      "Add broth, beans, corn, chilies, and spices",
+      "Bring to boil, then simmer 20 min",
+      "Stir in shredded chicken and sour cream",
+      "Cook 5 more min, serve with cheddar and cornbread"
     ]
   },
   "state": {
