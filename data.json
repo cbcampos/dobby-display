@@ -1,124 +1,62 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Turkish Chicken Meatballs with Garlic Yogurt Sauce & Cabbage Rolls",
-    "emoji": "🧆",
+    "title": "Shrimp Creamy Lemon Garlic Pasta with Caesar Salad",
+    "emoji": "🍽️",
     "time": "45 min",
-    "temp": "425°F / 350°F",
-    "servings": "6 servings",
+    "temp": "425°F",
+    "servings": "4 servings",
     "ingredients": [
       [
-        "2½ lb",
-        "ground chicken"
+        "",
+        "1 lb large shrimp, peeled & deveined"
       ],
       [
-        "¼ cup",
-        "breadcrumbs"
+        "",
+        "8 oz linguine or spaghetti"
       ],
       [
-        "1½",
-        "onions, grated"
+        "",
+        "4 cloves garlic, minced"
       ],
       [
-        "3 cloves",
-        "garlic"
+        "",
+        "1/2 cup unsalted butter"
       ],
       [
-        "2",
-        "eggs"
+        "",
+        "1 cup heavy cream"
       ],
       [
-        "1½ cups",
-        "parsley, chopped"
+        "",
+        "1/2 cup Parmesan cheese, grated"
       ],
       [
-        "2 tsp",
-        "cumin"
+        "",
+        "Juice of 1 lemon"
       ],
       [
-        "2 tsp",
-        "coriander"
+        "",
+        "2 tbsp fresh parsley, chopped"
       ],
       [
-        "1 tsp",
-        "paprika"
+        "",
+        "Salt & pepper"
       ],
       [
-        "1 tsp",
-        "chili flakes"
-      ],
-      [
-        "to taste",
-        "salt and pepper"
-      ],
-      [
-        "2½ cups",
-        "Greek yogurt"
-      ],
-      [
-        "1½ tbsp",
-        "cornstarch + 3 tbsp water (slurry)"
-      ],
-      [
-        "1½ cups",
-        "chicken broth"
-      ],
-      [
-        "1 large",
-        "cabbage"
-      ],
-      [
-        "2 lb",
-        "ground chicken (for rolls)"
-      ],
-      [
-        "1½ cups",
-        "cooked rice"
-      ],
-      [
-        "1 can",
-        "diced tomatoes, drained"
-      ],
-      [
-        "1",
-        "onion, diced"
-      ],
-      [
-        "2 cloves",
-        "garlic, minced"
-      ],
-      [
-        "½ cup",
-        "parsley"
-      ],
-      [
-        "1 tsp",
-        "cumin"
-      ],
-      [
-        "1 tsp",
-        "paprika"
-      ],
-      [
-        "1 can (28 oz)",
-        "crushed tomatoes"
-      ],
-      [
-        "1 cup",
-        "broth"
+        "",
+        "Red pepper flakes (optional)"
       ]
     ],
     "steps": [
-      "Mix 2½ lb ground chicken with breadcrumbs, grated onion, garlic, eggs, parsley, cumin, coriander, paprika, chili flakes, salt, and pepper.",
-      "Form into ~30 meatballs. Bake on a lined sheet at 425°F for 18–20 minutes until cooked through.",
-      "Meanwhile, bring 1½ cups chicken broth to a simmer. Whisk together Greek yogurt, eggs, and cornstarch slurry.",
-      "Slowly temper yogurt mixture into hot broth, stirring constantly. Cook until thickened. Season with salt and pepper.",
-      "Blanch cabbage leaves in boiling water for 3-4 minutes until pliable. Drain and cool.",
-      "Mix 2 lb ground chicken with cooked rice, drained diced tomatoes, onion, garlic, parsley, cumin, paprika, salt, and pepper.",
-      "Spoon filling onto each cabbage leaf and roll tightly, tucking in the edges.",
-      "Arrange cabbage rolls seam-side down in a large baking dish. Pour crushed tomatoes and 1 cup broth over rolls.",
-      "Cover with foil and bake at 350°F for 45–55 minutes until cabbage is tender and filling is cooked through.",
-      "Serve meatballs with garlic yogurt sauce drizzled with olive oil and Aleppo pepper. Serve cabbage rolls with extra tomato sauce."
+      "Cook pasta according to package, reserve 1/2 cup pasta water",
+      "Season shrimp with salt, pepper, garlic",
+      "Sauté shrimp in butter 2-3 min per side, set aside",
+      "Add cream to pan, simmer until thickened (3 min)",
+      "Stir in Parmesan, lemon juice, parsley",
+      "Toss with pasta, add shrimp. Thin with pasta water if needed.",
+      "🥗 CAESAR SALAD (side):",
+      "- Romaine lettuce, Caesar dressing, croutons, Parmesan"
     ]
   },
   "state": {
