@@ -1,62 +1,69 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Shrimp Creamy Lemon Garlic Pasta with Caesar Salad",
-    "emoji": "🍽️",
-    "time": "45 min",
-    "temp": "425°F",
+    "title": "Beef Dumpling Stew",
+    "emoji": "🥩",
+    "time": "2.5 hrs",
+    "temp": "325°F",
     "servings": "4 servings",
     "ingredients": [
       [
-        "",
-        "1 lb large shrimp, peeled & deveined"
+        "2 lb",
+        "stewing beef"
       ],
       [
-        "",
-        "8 oz linguine or spaghetti"
+        "3 tbsp",
+        "olive oil and butter mixed"
       ],
       [
-        "",
-        "4 cloves garlic, minced"
+        "3 tbsp",
+        "flour"
       ],
       [
-        "",
-        "1/2 cup unsalted butter"
+        "4 cloves",
+        "garlic, minced"
       ],
       [
-        "",
-        "1 cup heavy cream"
+        "2 cups",
+        "mixed vegetables (carrots, onions, celery)"
       ],
       [
-        "",
-        "1/2 cup Parmesan cheese, grated"
+        "1 cup",
+        "red wine"
       ],
       [
-        "",
-        "Juice of 1 lemon"
+        "2 cups",
+        "beef stock"
       ],
       [
-        "",
-        "2 tbsp fresh parsley, chopped"
+        "2 sprigs",
+        "fresh herbs (thyme, rosemary)"
       ],
       [
-        "",
-        "Salt & pepper"
+        "2 tbsp",
+        "Worcestershire sauce"
       ],
       [
-        "",
-        "Red pepper flakes (optional)"
+        "1 tbsp",
+        "balsamic vinegar"
+      ],
+      [
+        "1 tsp",
+        "salt"
+      ],
+      [
+        "1/2 tsp",
+        "pepper"
       ]
     ],
     "steps": [
-      "Cook pasta according to package, reserve 1/2 cup pasta water",
-      "Season shrimp with salt, pepper, garlic",
-      "Sauté shrimp in butter 2-3 min per side, set aside",
-      "Add cream to pan, simmer until thickened (3 min)",
-      "Stir in Parmesan, lemon juice, parsley",
-      "Toss with pasta, add shrimp. Thin with pasta water if needed.",
-      "🥗 CAESAR SALAD (side):",
-      "- Romaine lettuce, Caesar dressing, croutons, Parmesan"
+      "Heat oil and butter in an ovenproof casserole. Fry beef until browned on all sides.",
+      "Sprinkle over flour and cook for a further 2-3 minutes.",
+      "Add garlic and all the vegetables and fry for 1-2 minutes.",
+      "Stir in wine, stock, herbs, Worcestershire sauce, and balsamic vinegar. Season with salt and pepper.",
+      "Cover with lid and transfer to a 325°F oven. Cook for about 2.5 hours.",
+      "Meanwhile, prepare dumplings: mix 6 tbsp self-raising flour, 3 tbsp butter, and enough water to form a dough. Shape into 8 balls.",
+      "Remove lid, place dumplings on top of stew, and cook uncovered for final 20 minutes until dumplings are golden."
     ]
   },
   "state": {
