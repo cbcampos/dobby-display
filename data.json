@@ -1,11 +1,76 @@
 {
-  "mode": "quickglance",
-  "clock": "11:03 PM",
-  "date": "Sunday, April 12",
-  "weather_icon": "⛅",
-  "temp": "69",
-  "weather_desc": "Partly cloudy",
-  "events": [],
-  "tasks": [],
-  "dinner": "TBD"
+  "mode": "recipe",
+  "recipe": {
+    "title": "",
+    "emoji": "🍗",
+    "time": "30 min",
+    "temp": "400°F",
+    "servings": "6 servings",
+    "ingredients": [
+      [
+        "3 large",
+        "boneless skinless chicken breasts (about 2.5 lb)"
+      ],
+      [
+        "1.5 tbsp",
+        "olive oil"
+      ],
+      [
+        "1 tbsp",
+        "butter"
+      ],
+      [
+        "1 medium",
+        "onion, diced"
+      ],
+      [
+        "3 cloves",
+        "garlic, minced"
+      ],
+      [
+        "13 oz",
+        "orzo (about 2 cups)"
+      ],
+      [
+        "3 cups",
+        "chicken broth"
+      ],
+      [
+        "1.5 cups",
+        "water"
+      ],
+      [
+        "3/4 cup",
+        "heavy cream"
+      ],
+      [
+        "6 oz",
+        "cream cheese"
+      ],
+      [
+        "1/2 cup",
+        "grated Parmesan"
+      ],
+      [
+        "1/2 cup",
+        "chopped parsley"
+      ],
+      [
+        "",
+        "Salt, black pepper, sweet paprika"
+      ]
+    ],
+    "steps": [
+      "Season chicken with salt, pepper, and paprika.",
+      "Heat olive oil in a large skillet. Sear chicken 3-4 minutes per side until cooked through. Remove and slice.",
+      "In the same pan, melt butter. Sauté onion until soft, then add garlic.",
+      "Stir in orzo and toast 1 minute.",
+      "Add broth and water. Simmer 10-12 minutes until orzo is tender.",
+      "Stir in cream cheese, heavy cream, Parmesan, parsley, salt, and pepper.",
+      "Return sliced chicken to pan and serve warm."
+    ]
+  },
+  "state": {
+    "step": 1
+  }
 }
