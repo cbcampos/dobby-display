@@ -1,11 +1,82 @@
 {
-  "mode": "quickglance",
-  "clock": "5:34 PM",
-  "date": "Monday, April 13",
-  "weather_icon": "☀️",
-  "temp": "82",
-  "weather_desc": "Sunny",
-  "events": [],
-  "tasks": [],
-  "dinner": "TBD"
+  "mode": "recipe",
+  "recipe": {
+    "title": "Thu Apr 16 — American Goulash",
+    "emoji": "🍲",
+    "time": "45 min",
+    "temp": "425°F",
+    "servings": "4 servings",
+    "ingredients": [
+      [
+        "",
+        "3 tbsp olive oil"
+      ],
+      [
+        "",
+        "1½ onions, chopped"
+      ],
+      [
+        "",
+        "5 garlic cloves, chopped"
+      ],
+      [
+        "",
+        "2¼ lb ground beef"
+      ],
+      [
+        "",
+        "2 cans (15 oz each) beef broth"
+      ],
+      [
+        "",
+        "2 cans (15 oz each) tomato sauce"
+      ],
+      [
+        "",
+        "2 cans (15 oz each) diced tomatoes"
+      ],
+      [
+        "",
+        "1½ tbsp Worcestershire sauce"
+      ],
+      [
+        "",
+        "1½ tsp seasoned salt"
+      ],
+      [
+        "",
+        "3 tsp dried Italian seasoning"
+      ],
+      [
+        "",
+        "1½ tbsp ground paprika"
+      ],
+      [
+        "",
+        "1 tsp ground black pepper"
+      ],
+      [
+        "",
+        "3 cups elbow macaroni"
+      ],
+      [
+        "",
+        "1½ cups sharp cheddar cheese, grated"
+      ],
+      [
+        "",
+        "Chopped fresh parsley, chives, or dill"
+      ]
+    ],
+    "steps": [
+      "Heat oil in a large pot over medium heat. Add onion, cook until translucent, ~5 min. Add garlic, cook 1 min.",
+      "Add ground beef, raise heat to medium-high. Cook, crumbling meat, until browned, ~6 min. Drain excess fat if needed.",
+      "Stir in beef broth, tomato sauce, diced tomatoes, Worcestershire, seasoned salt, Italian seasoning, paprika, and pepper. Bring to a simmer.",
+      "Add elbow macaroni, cover and simmer, stirring occasionally, until pasta is tender, ~12–15 min.",
+      "Stir in cheddar until melted. Taste and adjust seasoning. Serve hot, garnished with fresh herbs."
+    ]
+  },
+  "state": {
+    "step": 1
+  }
 }
