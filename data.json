@@ -1,15 +1,55 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Thu Apr 16 — American Goulash",
-    "emoji": "🍲",
+    "title": "Mon Apr 20 — Shrimp & Grits",
+    "emoji": "🦐",
     "time": "45 min",
     "temp": "425°F",
     "servings": "4 servings",
     "ingredients": [
       [
         "",
-        "3 tbsp olive oil"
+        "7½ cups low-sodium chicken stock, divided"
+      ],
+      [
+        "",
+        "1 cup quick cook grits"
+      ],
+      [
+        "",
+        "2¼ cups grated pepper jack cheese"
+      ],
+      [
+        "",
+        "2¼ cups grated sharp cheddar"
+      ],
+      [
+        "",
+        "¾ cup mascarpone, softened"
+      ],
+      [
+        "",
+        "6 tbsp butter, divided"
+      ],
+      [
+        "",
+        "Kosher salt and black pepper, to taste"
+      ],
+      [
+        "",
+        "1½ tbsp olive oil"
+      ],
+      [
+        "",
+        "2¼ lb jumbo shrimp, peeled and deveined"
+      ],
+      [
+        "",
+        "1½ tbsp Cajun seasoning"
+      ],
+      [
+        "",
+        "9 strips bacon, chopped"
       ],
       [
         "",
@@ -17,63 +57,35 @@
       ],
       [
         "",
-        "5 garlic cloves, chopped"
+        "1½ red bell peppers, seeded and chopped"
       ],
       [
         "",
-        "2¼ lb ground beef"
+        "1½ jalapeño peppers, seeded and chopped"
       ],
       [
         "",
-        "2 cans (15 oz each) beef broth"
+        "1½ tbsp tomato paste"
       ],
       [
         "",
-        "2 cans (15 oz each) tomato sauce"
+        "Hot sauce, to taste"
       ],
       [
         "",
-        "2 cans (15 oz each) diced tomatoes"
+        "¾ lemon, juiced"
       ],
       [
         "",
-        "1½ tbsp Worcestershire sauce"
-      ],
-      [
-        "",
-        "1½ tsp seasoned salt"
-      ],
-      [
-        "",
-        "3 tsp dried Italian seasoning"
-      ],
-      [
-        "",
-        "1½ tbsp ground paprika"
-      ],
-      [
-        "",
-        "1 tsp ground black pepper"
-      ],
-      [
-        "",
-        "3 cups elbow macaroni"
-      ],
-      [
-        "",
-        "1½ cups sharp cheddar cheese, grated"
-      ],
-      [
-        "",
-        "Chopped fresh parsley, chives, or dill"
+        "3 green onions, sliced"
       ]
     ],
     "steps": [
-      "Heat oil in a large pot over medium heat. Add onion, cook until translucent, ~5 min. Add garlic, cook 1 min.",
-      "Add ground beef, raise heat to medium-high. Cook, crumbling meat, until browned, ~6 min. Drain excess fat if needed.",
-      "Stir in beef broth, tomato sauce, diced tomatoes, Worcestershire, seasoned salt, Italian seasoning, paprika, and pepper. Bring to a simmer.",
-      "Add elbow macaroni, cover and simmer, stirring occasionally, until pasta is tender, ~12–15 min.",
-      "Stir in cheddar until melted. Taste and adjust seasoning. Serve hot, garnished with fresh herbs."
+      "In a large saucepan, bring 4½ cups stock to a boil. Slowly stir in grits, return to boil, cook 3–4 min. Turn down heat, stir in pepper jack, cheddar, and mascarpone. Cook 3–4 min until cheese is melted. Stir in 3 tbsp butter, season with salt and pepper. Keep warm.",
+      "In a separate saucepan, heat remaining 3 cups stock until hot.",
+      "In a large skillet over medium-high heat, heat oil and remaining 3 tbsp butter. Season shrimp with Cajun seasoning. Cook until pink, ~2 min per side. Transfer to plate.",
+      "In the same skillet, cook bacon until crispy. Add onion, bell peppers, and jalapeño. Cook until softened, 4–5 min. Stir in tomato paste and ¾ cup warm stock. Simmer 2–3 min. Add shrimp back in, squeeze lemon juice over top.",
+      "Divide grits among shallow bowls. Spoon shrimp and sauce over top. Garnish with green onions."
     ]
   },
   "state": {
