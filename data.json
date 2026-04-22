@@ -1,71 +1,51 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Mon Apr 20 — Shrimp & Grits",
-    "emoji": "🦐",
+    "title": "Fri Apr 17 — Taco Pie",
+    "emoji": "🌮",
     "time": "45 min",
     "temp": "425°F",
     "servings": "4 servings",
     "ingredients": [
       [
         "",
-        "7½ cups low-sodium chicken stock, divided"
+        "2 cans (8 oz each) refrigerated crescent rolls"
       ],
       [
         "",
-        "1 cup quick cook grits"
+        "2 lb lean ground beef"
       ],
       [
         "",
-        "2¼ cups grated pepper jack cheese"
+        "2 tbsp olive oil"
       ],
       [
         "",
-        "2¼ cups grated sharp cheddar"
+        "6 garlic cloves, minced"
       ],
       [
         "",
-        "¾ cup mascarpone, softened"
+        "¾ small onion, diced"
       ],
       [
         "",
-        "6 tbsp butter, divided"
+        "1½ tbsp chili powder"
       ],
       [
         "",
-        "Kosher salt and black pepper, to taste"
+        "3 tsp ground cumin"
       ],
       [
         "",
-        "1½ tbsp olive oil"
+        "1½ tsp ground coriander"
       ],
       [
         "",
-        "2¼ lb jumbo shrimp, peeled and deveined"
+        "1 cup sour cream"
       ],
       [
         "",
-        "1½ tbsp Cajun seasoning"
-      ],
-      [
-        "",
-        "9 strips bacon, chopped"
-      ],
-      [
-        "",
-        "1½ onions, chopped"
-      ],
-      [
-        "",
-        "1½ red bell peppers, seeded and chopped"
-      ],
-      [
-        "",
-        "1½ jalapeño peppers, seeded and chopped"
-      ],
-      [
-        "",
-        "1½ tbsp tomato paste"
+        "2 cups shredded cheddar cheese, divided"
       ],
       [
         "",
@@ -73,19 +53,19 @@
       ],
       [
         "",
-        "¾ lemon, juiced"
+        "¾ cup shredded romaine lettuce"
       ],
       [
         "",
-        "3 green onions, sliced"
+        "1½ Roma tomatoes, diced"
       ]
     ],
     "steps": [
-      "In a large saucepan, bring 4½ cups stock to a boil. Slowly stir in grits, return to boil, cook 3–4 min. Turn down heat, stir in pepper jack, cheddar, and mascarpone. Cook 3–4 min until cheese is melted. Stir in 3 tbsp butter, season with salt and pepper. Keep warm.",
-      "In a separate saucepan, heat remaining 3 cups stock until hot.",
-      "In a large skillet over medium-high heat, heat oil and remaining 3 tbsp butter. Season shrimp with Cajun seasoning. Cook until pink, ~2 min per side. Transfer to plate.",
-      "In the same skillet, cook bacon until crispy. Add onion, bell peppers, and jalapeño. Cook until softened, 4–5 min. Stir in tomato paste and ¾ cup warm stock. Simmer 2–3 min. Add shrimp back in, squeeze lemon juice over top.",
-      "Divide grits among shallow bowls. Spoon shrimp and sauce over top. Garnish with green onions."
+      "Preheat oven to 350°F.",
+      "Unroll both cans of crescent dough and press into a large 9×13 baking pan, pinching the perforated seams together.",
+      "Sprinkle 1 cup cheddar over the crust. Bake until golden and cheese is melted, 12–13 min. Remove and cool slightly.",
+      "Meanwhile, heat oil in a large skillet over medium heat. Add garlic, onion, chili powder, cumin, and coriander. Cook until very fragrant, 2–3 min. Add beef, raise heat to medium-high. Cook, breaking up meat, until browned and cooked through, ~5 min. Remove from heat, stir in sour cream, remaining cheddar, and hot sauce.",
+      "Place crust on a cutting board. Spoon meat mixture over the crust. Top with romaine, diced tomato, and remaining sour cream. Slice into 6 pieces and serve with hot sauce."
     ]
   },
   "state": {
