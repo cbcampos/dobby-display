@@ -1,71 +1,70 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Fri Apr 17 — Taco Pie",
-    "emoji": "🌮",
-    "time": "45 min",
-    "temp": "425°F",
-    "servings": "4 servings",
+    "title": "Shrimp Creamy Lemon Garlic Pasta with Caesar Salad",
+    "emoji": "🍤",
+    "time": "30 min",
+    "temp": "Medium heat (pasta); no oven needed",
+    "servings": "6 servings",
     "ingredients": [
       [
-        "",
-        "2 cans (8 oz each) refrigerated crescent rolls"
+        "1½ lb",
+        "shrimp"
+      ],
+      [
+        "1 lb",
+        "linguine or spaghetti"
+      ],
+      [
+        "3–4 cloves",
+        "garlic, minced"
+      ],
+      [
+        "¾ cup",
+        "cream or milk"
+      ],
+      [
+        "½ cup",
+        "grated Parmesan"
+      ],
+      [
+        "1",
+        "lemon (zest + juice)"
+      ],
+      [
+        "2 tbsp",
+        "butter or olive oil"
       ],
       [
         "",
-        "2 lb lean ground beef"
+        "Salt and pepper"
       ],
       [
-        "",
-        "2 tbsp olive oil"
+        "2 heads",
+        "romaine lettuce"
       ],
       [
-        "",
-        "6 garlic cloves, minced"
+        "¾ cup",
+        "Caesar dressing"
       ],
       [
-        "",
-        "¾ small onion, diced"
+        "½ cup",
+        "croutons"
       ],
       [
-        "",
-        "1½ tbsp chili powder"
-      ],
-      [
-        "",
-        "3 tsp ground cumin"
-      ],
-      [
-        "",
-        "1½ tsp ground coriander"
-      ],
-      [
-        "",
-        "1 cup sour cream"
-      ],
-      [
-        "",
-        "2 cups shredded cheddar cheese, divided"
-      ],
-      [
-        "",
-        "Hot sauce, to taste"
-      ],
-      [
-        "",
-        "¾ cup shredded romaine lettuce"
-      ],
-      [
-        "",
-        "1½ Roma tomatoes, diced"
+        "½ cup",
+        "Parmesan (for salad)"
       ]
     ],
     "steps": [
-      "Preheat oven to 350°F.",
-      "Unroll both cans of crescent dough and press into a large 9×13 baking pan, pinching the perforated seams together.",
-      "Sprinkle 1 cup cheddar over the crust. Bake until golden and cheese is melted, 12–13 min. Remove and cool slightly.",
-      "Meanwhile, heat oil in a large skillet over medium heat. Add garlic, onion, chili powder, cumin, and coriander. Cook until very fragrant, 2–3 min. Add beef, raise heat to medium-high. Cook, breaking up meat, until browned and cooked through, ~5 min. Remove from heat, stir in sour cream, remaining cheddar, and hot sauce.",
-      "Place crust on a cutting board. Spoon meat mixture over the crust. Top with romaine, diced tomato, and remaining sour cream. Slice into 6 pieces and serve with hot sauce."
+      "Bring a large pot of salted water to boil. Cook linguine until al dente. Reserve ½ cup pasta water before draining.",
+      "Meanwhile, heat butter in a large skillet over medium heat. Add garlic and sauté until fragrant, about 1 minute.",
+      "Add shrimp to the skillet in a single layer. Cook until pink, about 2–3 minutes per side. Remove and set aside.",
+      "Reduce heat to low. Stir in cream, Parmesan, lemon zest, and lemon juice. Simmer gently until slightly thickened.",
+      "Toss drained pasta with the creamy sauce, adding pasta water as needed to reach desired consistency.",
+      "Return shrimp to the pan and fold everything together. Season with salt and pepper to taste.",
+      "For the Caesar salad: chop romaine, toss with dressing, croutons, and Parmesan.",
+      "Serve pasta in bowls with Caesar salad on the side or tossed on top. Garnish with extra Parmesan and a lemon wedge."
     ]
   },
   "state": {
