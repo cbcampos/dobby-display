@@ -1,70 +1,80 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Shrimp Creamy Lemon Garlic Pasta with Caesar Salad",
-    "emoji": "🍤",
-    "time": "30 min",
-    "temp": "Medium heat (pasta); no oven needed",
+    "title": "Breakfast for Dinner — Omelettes, Grits & Fruit",
+    "emoji": "🍳",
+    "time": "45 min",
+    "temp": "375°F for grits",
     "servings": "6 servings",
     "ingredients": [
       [
-        "1½ lb",
-        "shrimp"
-      ],
-      [
-        "1 lb",
-        "linguine or spaghetti"
-      ],
-      [
-        "3–4 cloves",
-        "garlic, minced"
-      ],
-      [
-        "¾ cup",
-        "cream or milk"
+        "14 large",
+        "eggs"
       ],
       [
         "½ cup",
-        "grated Parmesan"
-      ],
-      [
-        "1",
-        "lemon (zest + juice)"
-      ],
-      [
-        "2 tbsp",
-        "butter or olive oil"
+        "milk"
       ],
       [
         "",
         "Salt and pepper"
       ],
       [
-        "2 heads",
-        "romaine lettuce"
+        "1½ cups",
+        "shredded cheese"
       ],
       [
-        "¾ cup",
-        "Caesar dressing"
+        "1½ cups",
+        "diced ham"
       ],
       [
-        "½ cup",
-        "croutons"
+        "2 cups",
+        "fresh spinach"
       ],
       [
-        "½ cup",
-        "Parmesan (for salad)"
+        "4 oz",
+        "goat cheese"
+      ],
+      [
+        "",
+        "Butter for cooking"
+      ],
+      [
+        "1½ cups",
+        "quick grits"
+      ],
+      [
+        "6 cups",
+        "water or milk"
+      ],
+      [
+        "2 tbsp",
+        "butter"
+      ],
+      [
+        "",
+        "Salt to taste"
+      ],
+      [
+        "2 cups",
+        "strawberries, quartered"
+      ],
+      [
+        "2 cups",
+        "grapes, halved"
       ]
     ],
     "steps": [
-      "Bring a large pot of salted water to boil. Cook linguine until al dente. Reserve ½ cup pasta water before draining.",
-      "Meanwhile, heat butter in a large skillet over medium heat. Add garlic and sauté until fragrant, about 1 minute.",
-      "Add shrimp to the skillet in a single layer. Cook until pink, about 2–3 minutes per side. Remove and set aside.",
-      "Reduce heat to low. Stir in cream, Parmesan, lemon zest, and lemon juice. Simmer gently until slightly thickened.",
-      "Toss drained pasta with the creamy sauce, adding pasta water as needed to reach desired consistency.",
-      "Return shrimp to the pan and fold everything together. Season with salt and pepper to taste.",
-      "For the Caesar salad: chop romaine, toss with dressing, croutons, and Parmesan.",
-      "Serve pasta in bowls with Caesar salad on the side or tossed on top. Garnish with extra Parmesan and a lemon wedge."
+      "Whisk eggs, milk, salt, and pepper in a large bowl until well combined.",
+      "Melt butter in a large skillet over medium heat. Pour in egg mixture and cook gently, stirring occasionally, until eggs begin to set.",
+      "Add shredded cheese, diced ham, fresh spinach, and crumbled goat cheese to one half of the omelette. Fold the other half over the fillings.",
+      "Continue cooking 1-2 more minutes until cheese is melted and eggs are fully cooked through. Slide onto plate.",
+      "Repeat with remaining egg mixture to make 4-6 omelettes total, adding butter to the pan as needed.",
+      "Bring 6 cups water or milk to a boil in a medium saucepan. Stir in quick grits and reduce heat to low.",
+      "Cook grits according to package directions, stirring frequently, until thick and creamy — about 5-7 minutes.",
+      "Stir in 2 tablespoons butter and season with salt to taste. Keep warm.",
+      "Quarter strawberries and halve grapes. Arrange fresh fruit on a serving platter.",
+      "Serve omelettes alongside creamy grits and fresh fruit for a complete breakfast-for-dinner spread."
     ]
   },
   "state": {
