@@ -1,80 +1,71 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Breakfast for Dinner — Omelettes, Grits & Fruit",
-    "emoji": "🍳",
-    "time": "45 min",
-    "temp": "375°F for grits",
-    "servings": "6 servings",
+    "title": "Creamy Kale, White Bean & Sausage Soup",
+    "emoji": "🥣",
+    "time": "45 minutes",
+    "temp": "",
+    "servings": "6",
     "ingredients": [
       [
-        "14 large",
-        "eggs"
+        "1½ lb",
+        ""
       ],
       [
-        "½ cup",
-        "milk"
+        "1½ tbsp",
+        ""
       ],
       [
-        "",
-        "Salt and pepper"
+        "1 large",
+        ""
       ],
       [
-        "1½ cups",
-        "shredded cheese"
-      ],
-      [
-        "1½ cups",
-        "diced ham"
-      ],
-      [
-        "2 cups",
-        "fresh spinach"
-      ],
-      [
-        "4 oz",
-        "goat cheese"
-      ],
-      [
-        "",
-        "Butter for cooking"
-      ],
-      [
-        "1½ cups",
-        "quick grits"
+        "4 cloves",
+        ""
       ],
       [
         "6 cups",
-        "water or milk"
+        ""
       ],
       [
-        "2 tbsp",
-        "butter"
+        "2 (15-oz)",
+        ""
+      ],
+      [
+        "3 medium",
+        ""
+      ],
+      [
+        "1 tsp",
+        ""
+      ],
+      [
+        "½ tsp",
+        ""
+      ],
+      [
+        "3 cups",
+        ""
+      ],
+      [
+        "¾ cup",
+        ""
+      ],
+      [
+        "to taste",
+        ""
       ],
       [
         "",
-        "Salt to taste"
-      ],
-      [
-        "2 cups",
-        "strawberries, quartered"
-      ],
-      [
-        "2 cups",
-        "grapes, halved"
+        ""
       ]
     ],
     "steps": [
-      "Whisk eggs, milk, salt, and pepper in a large bowl until well combined.",
-      "Melt butter in a large skillet over medium heat. Pour in egg mixture and cook gently, stirring occasionally, until eggs begin to set.",
-      "Add shredded cheese, diced ham, fresh spinach, and crumbled goat cheese to one half of the omelette. Fold the other half over the fillings.",
-      "Continue cooking 1-2 more minutes until cheese is melted and eggs are fully cooked through. Slide onto plate.",
-      "Repeat with remaining egg mixture to make 4-6 omelettes total, adding butter to the pan as needed.",
-      "Bring 6 cups water or milk to a boil in a medium saucepan. Stir in quick grits and reduce heat to low.",
-      "Cook grits according to package directions, stirring frequently, until thick and creamy — about 5-7 minutes.",
-      "Stir in 2 tablespoons butter and season with salt to taste. Keep warm.",
-      "Quarter strawberries and halve grapes. Arrange fresh fruit on a serving platter.",
-      "Serve omelettes alongside creamy grits and fresh fruit for a complete breakfast-for-dinner spread."
+      "Brown sausage in olive oil. Remove and set aside.",
+      "In same pot, sauté onion and garlic.",
+      "Add broth, beans, potatoes, paprika, and pepper. Simmer 15 minutes.",
+      "Add kale and sausage. Simmer 3–4 minutes.",
+      "Stir in cream and adjust salt. Serve with bread."
     ]
   },
   "state": {
