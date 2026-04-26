@@ -1,11 +1,65 @@
 {
-  "mode": "quickglance",
-  "clock": "4:08 PM",
-  "date": "Saturday, April 25",
-  "weather_icon": "⛅",
-  "temp": "78",
-  "weather_desc": "Partly cloudy",
-  "events": [],
-  "tasks": [],
-  "dinner": "TBD"
+  "mode": "recipe",
+  "recipe": {
+    "title": "Garlic Shrimp & Couscous Bowl with Roasted Zucchini & Lemon Tahini",
+    "emoji": "🍽️",
+    "time": "35 min",
+    "temp": "425°F",
+    "servings": "6 servings",
+    "ingredients": [
+      [
+        "",
+        "1.5 lbs large shrimp, peeled and deveined"
+      ],
+      [
+        "",
+        "2 cups pearl couscous"
+      ],
+      [
+        "",
+        "1 large zucchini, sliced"
+      ],
+      [
+        "",
+        "3 tbsp olive oil"
+      ],
+      [
+        "",
+        "2 tbsp lemon tahini dressing"
+      ],
+      [
+        "",
+        "1 tsp smoked paprika"
+      ],
+      [
+        "",
+        "4 cloves garlic, minced"
+      ],
+      [
+        "",
+        "1/4 cup fresh parsley, chopped"
+      ],
+      [
+        "",
+        "1/4 cup feta cheese, crumbled"
+      ],
+      [
+        "",
+        "Salt and pepper to taste"
+      ]
+    ],
+    "steps": [
+      "Preheat oven to 425°F.",
+      "Toss zucchini slices with 1 tbsp olive oil, salt, and pepper. Roast on a sheet pan for 15-18 minutes until golden.",
+      "Bring 2 cups salted water to boil. Add couscous, reduce heat, cover and simmer 8-10 minutes until tender.",
+      "Season shrimp with paprika, salt, pepper, and remaining olive oil.",
+      "Heat a large skillet over medium-high heat. Cook shrimp 2-3 minutes per side until pink.",
+      "Fluff couscous with a fork. Stir in lemon tahini dressing.",
+      "Divide couscous among bowls. Top with roasted zucchini, shrimp, and crumbled feta.",
+      "Drizzle with extra tahini dressing and garnish with parsley."
+    ]
+  },
+  "state": {
+    "step": 1
+  }
 }
