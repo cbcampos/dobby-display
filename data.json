@@ -1,82 +1,68 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Black Bean Burritos with Spanish Rice",
-    "emoji": "B",
-    "time": "45 min",
-    "temp": "425°F",
-    "servings": "4 servings",
+    "title": "Super Green Pasta",
+    "emoji": "S",
+    "time": "30 min",
+    "temp": "400°F",
+    "servings": "6 servings",
     "ingredients": [
       [
-        "",
-        "6 (10 inch) flour tortillas"
+        "12 oz",
+        "Spiral pasta"
       ],
       [
-        "",
-        "6 tbsp vegetable oil"
+        "3 tbsp",
+        "Olive oil"
       ],
       [
-        "",
-        "3 small onions, chopped"
+        "5 cloves",
+        "Garlic, sliced"
       ],
       [
-        "",
-        "2 red bell peppers, chopped"
+        "1 large",
+        "Shallot, sliced"
       ],
       [
-        "",
-        "1 tbsp minced garlic"
+        "2 medium",
+        "Zucchini, cubed"
       ],
       [
-        "",
-        "1 tbsp minced jalapeño peppers"
+        "6 packed cups",
+        "Fresh spinach"
       ],
       [
-        "",
-        "3 (15 oz) cans black beans, rinsed and drained"
+        "1½ cups",
+        "Fresh basil leaves"
       ],
       [
-        "",
-        "9 oz cream cheese, cubed"
+        "1¼ tsp",
+        "Salt"
       ],
       [
-        "",
-        "1½ tsp salt"
+        "1 cup",
+        "Reserved pasta water"
       ],
       [
-        "",
-        "6 tbsp chopped fresh cilantro"
+        "⅓ cup",
+        "Heavy cream"
       ],
       [
-        "",
-        "1½ cups shredded cheese (cheddar or mexican blend)"
+        "¾ cup",
+        "Grated Parmesan, + more for serving"
       ],
       [
-        "",
-        "Sour cream, for serving"
-      ],
-      [
-        "",
-        "Salsa, for serving"
-      ],
-      [
-        "",
-        "2 boxes Spanish rice mix (such as Vigo or Zatarain's)"
-      ],
-      [
-        "",
-        "Prepared per package directions (typically 2 cups water + 1 tbsp butter per box)"
+        "1",
+        "Lemon, zest only"
       ]
     ],
     "steps": [
-      "Preheat oven to 350°F. Wrap tortillas in foil and bake 15 minutes until heated through.",
-      "Meanwhile, heat oil in a large skillet over medium heat. Add onion, bell pepper, garlic, and jalapeño; cook and stir for 2 minutes.",
-      "Stir in beans and cook until heated through, about 3 minutes. Stir in cream cheese and salt; cook, stirring occasionally, for 2 minutes. Stir in cilantro.",
-      "Spoon filling across the middle of each tortilla. Top with shredded cheese. Fold opposing edges to overlap filling, then roll into a burrito.",
-      "Serve immediately with sour cream and salsa.",
-      "🍚 Spanish Rice (Side)",
-      "Cook Spanish rice per package instructions.",
-      "Serve alongside burritos."
+      "Bring a large pot of salted water to a boil. Cook pasta until al dente. Reserve 1 cup pasta water, then drain.",
+      "Heat olive oil in a large skillet over medium heat. Add garlic and shallot. Cook 2–3 minutes until fragrant.",
+      "Add zucchini and cook 4–5 minutes until softened.",
+      "Add spinach and cook until wilted.",
+      "Transfer vegetable mixture to a blender. Add basil, cream, Parmesan, salt, and ½–1 cup pasta water. Blend until smooth.",
+      "Toss sauce with pasta. Add lemon zest and extra Parmesan before serving."
     ]
   },
   "state": {
