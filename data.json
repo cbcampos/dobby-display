@@ -1,68 +1,48 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Super Green Pasta",
-    "emoji": "S",
-    "time": "30 min",
-    "temp": "400°F",
-    "servings": "6 servings",
+    "title": "French Toast Casserole",
+    "emoji": "🍞",
+    "time": "45 min + overnight chill",
+    "temp": "350°F",
+    "servings": "8 servings",
     "ingredients": [
       [
-        "12 oz",
-        "Spiral pasta"
+        "1 loaf",
+        "French bread, cubed"
       ],
       [
-        "3 tbsp",
-        "Olive oil"
+        "8",
+        "eggs"
       ],
       [
-        "5 cloves",
-        "Garlic, sliced"
+        "2 cups",
+        "milk"
       ],
       [
-        "1 large",
-        "Shallot, sliced"
+        "1/2 cup",
+        "sugar"
       ],
       [
-        "2 medium",
-        "Zucchini, cubed"
+        "2 tsp",
+        "vanilla"
       ],
       [
-        "6 packed cups",
-        "Fresh spinach"
+        "1 tsp",
+        "cinnamon"
       ],
       [
-        "1½ cups",
-        "Fresh basil leaves"
-      ],
-      [
-        "1¼ tsp",
-        "Salt"
-      ],
-      [
-        "1 cup",
-        "Reserved pasta water"
-      ],
-      [
-        "⅓ cup",
-        "Heavy cream"
-      ],
-      [
-        "¾ cup",
-        "Grated Parmesan, + more for serving"
-      ],
-      [
-        "1",
-        "Lemon, zest only"
+        "1/4 cup",
+        "butter"
       ]
     ],
     "steps": [
-      "Bring a large pot of salted water to a boil. Cook pasta until al dente. Reserve 1 cup pasta water, then drain.",
-      "Heat olive oil in a large skillet over medium heat. Add garlic and shallot. Cook 2–3 minutes until fragrant.",
-      "Add zucchini and cook 4–5 minutes until softened.",
-      "Add spinach and cook until wilted.",
-      "Transfer vegetable mixture to a blender. Add basil, cream, Parmesan, salt, and ½–1 cup pasta water. Blend until smooth.",
-      "Toss sauce with pasta. Add lemon zest and extra Parmesan before serving."
+      "Cube the French bread and place in a greased 9x13 baking dish.",
+      "In a large bowl, whisk together eggs, milk, sugar, vanilla, and cinnamon until well combined.",
+      "Pour the egg mixture over the bread cubes, ensuring all pieces are coated. Press down gently.",
+      "Dot the top with butter. Cover and refrigerate overnight.",
+      "Preheat oven to 350°F. Remove cover and bake for 45 minutes until golden and set.",
+      "Let rest 5 minutes before serving. Serve with maple syrup."
     ]
   },
   "state": {
