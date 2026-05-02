@@ -1,18 +1,26 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "French Toast Casserole",
+    "title": "French Toast Casserole and Sausage",
     "emoji": "🍞",
-    "time": "45 min + overnight chill",
-    "temp": "350°F",
+    "time": "45 min",
+    "temp": "425°F",
     "servings": "8 servings",
     "ingredients": [
       [
-        "1 loaf",
-        "French bread, cubed"
+        "½ loaf",
+        "French bread, cubed (about 8 oz)"
       ],
       [
-        "8",
+        "½ cup",
+        "butter"
+      ],
+      [
+        "1 cup",
+        "packed brown sugar"
+      ],
+      [
+        "6",
         "eggs"
       ],
       [
@@ -20,29 +28,33 @@
         "milk"
       ],
       [
-        "1/2 cup",
-        "sugar"
+        "2 tsp",
+        "vanilla extract"
       ],
       [
         "2 tsp",
-        "vanilla"
+        "cinnamon (divided)"
       ],
       [
-        "1 tsp",
-        "cinnamon"
+        "1 tbsp",
+        "brown sugar (topping)"
       ],
       [
-        "1/4 cup",
-        "butter"
+        "",
+        "Powdered sugar (optional topping)"
+      ],
+      [
+        "1½ lb",
+        "smoked sausage, sliced"
       ]
     ],
     "steps": [
-      "Cube the French bread and place in a greased 9x13 baking dish.",
-      "In a large bowl, whisk together eggs, milk, sugar, vanilla, and cinnamon until well combined.",
-      "Pour the egg mixture over the bread cubes, ensuring all pieces are coated. Press down gently.",
-      "Dot the top with butter. Cover and refrigerate overnight.",
-      "Preheat oven to 350°F. Remove cover and bake for 45 minutes until golden and set.",
-      "Let rest 5 minutes before serving. Serve with maple syrup."
+      "Preheat oven to 425°F. Butter a 13x9 inch baking pan.",
+      "Melt butter in saucepan over medium heat. Stir in brown sugar until dissolved and smooth. Pour into bottom of 9x13 pan and spread evenly.",
+      "Add bread cubes on top of brown sugar/butter mixture.",
+      "Whisk together eggs, milk, vanilla, and 1 tsp cinnamon in a medium bowl. Pour over bread, ensuring all pieces are saturated. Sprinkle with remaining 1 tsp cinnamon and 1 tbsp brown sugar.",
+      "Bake 25–30 minutes until golden brown. Top with powdered sugar if desired.",
+      "Meanwhile, brown sliced sausage in a skillet over medium-high heat until cooked through and slightly caramelized."
     ]
   },
   "state": {
