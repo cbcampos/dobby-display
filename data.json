@@ -1,60 +1,81 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "French Toast Casserole and Sausage",
-    "emoji": "🍞",
-    "time": "45 min",
-    "temp": "425°F",
-    "servings": "8 servings",
+    "title": "Peanut Chicken Bowls",
+    "emoji": "🍗",
+    "time": "30 min",
+    "temp": "Stovetop",
+    "servings": "6 servings",
     "ingredients": [
       [
-        "½ loaf",
-        "French bread, cubed (about 8 oz)"
+        "1½ cups",
+        "jasmine rice (uncooked)"
       ],
       [
-        "½ cup",
-        "butter"
-      ],
-      [
-        "1 cup",
-        "packed brown sugar"
-      ],
-      [
-        "6",
-        "eggs"
-      ],
-      [
-        "2 cups",
-        "milk"
-      ],
-      [
-        "2 tsp",
-        "vanilla extract"
-      ],
-      [
-        "2 tsp",
-        "cinnamon (divided)"
+        "3 lb",
+        "ground chicken"
       ],
       [
         "1 tbsp",
-        "brown sugar (topping)"
+        "sesame oil"
       ],
       [
-        "",
-        "Powdered sugar (optional topping)"
+        "3 cloves",
+        "garlic, minced"
+      ],
+      [
+        "2 tbsp",
+        "grated ginger"
+      ],
+      [
+        "2",
+        "bell peppers, diced"
+      ],
+      [
+        "3",
+        "carrots, diced"
       ],
       [
         "1½ lb",
-        "smoked sausage, sliced"
+        "broccoli florets"
+      ],
+      [
+        "¾ cup",
+        "peanut butter"
+      ],
+      [
+        "6 tbsp",
+        "soy sauce"
+      ],
+      [
+        "2 tbsp",
+        "rice vinegar"
+      ],
+      [
+        "2 tbsp",
+        "honey"
+      ],
+      [
+        "Juice of 2",
+        "limes"
+      ],
+      [
+        "½ cup",
+        "warm water"
+      ],
+      [
+        "½ cup",
+        "peanuts, chopped"
       ]
     ],
     "steps": [
-      "Preheat oven to 425°F. Butter a 13x9 inch baking pan.",
-      "Melt butter in saucepan over medium heat. Stir in brown sugar until dissolved and smooth. Pour into bottom of 9x13 pan and spread evenly.",
-      "Add bread cubes on top of brown sugar/butter mixture.",
-      "Whisk together eggs, milk, vanilla, and 1 tsp cinnamon in a medium bowl. Pour over bread, ensuring all pieces are saturated. Sprinkle with remaining 1 tsp cinnamon and 1 tbsp brown sugar.",
-      "Bake 25–30 minutes until golden brown. Top with powdered sugar if desired.",
-      "Meanwhile, brown sliced sausage in a skillet over medium-high heat until cooked through and slightly caramelized."
+      "Cook jasmine rice according to package directions, about 15-20 minutes.",
+      "Heat sesame oil in a large skillet or wok over medium-high heat. Add ground chicken and cook, breaking apart, until browned and cooked through, about 6-8 minutes.",
+      "Add garlic and ginger. Stir and cook 1 minute until fragrant.",
+      "Add bell peppers and carrots. Stir-fry 3-4 minutes until slightly tender.",
+      "Add broccoli and cook 3 more minutes until vegetables are crisp-tender.",
+      "Pour peanut sauce over chicken and vegetables. Toss to coat evenly and heat through, about 2 minutes.",
+      "Divide rice among bowls. Top with sauced chicken mixture. Sprinkle with peanuts and serve immediately."
     ]
   },
   "state": {
