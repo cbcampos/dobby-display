@@ -1,82 +1,17 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Black Bean Burritos with Spanish Rice",
-    "emoji": "B",
-    "time": "45 min",
-    "temp": "425°F",
-    "servings": "4 servings",
-    "ingredients": [
-      [
-        "",
-        "6 (10 inch) flour tortillas"
-      ],
-      [
-        "",
-        "6 tbsp vegetable oil"
-      ],
-      [
-        "",
-        "3 small onions, chopped"
-      ],
-      [
-        "",
-        "2 red bell peppers, chopped"
-      ],
-      [
-        "",
-        "1 tbsp minced garlic"
-      ],
-      [
-        "",
-        "1 tbsp minced jalapeño peppers"
-      ],
-      [
-        "",
-        "3 (15 oz) cans black beans, rinsed and drained"
-      ],
-      [
-        "",
-        "9 oz cream cheese, cubed"
-      ],
-      [
-        "",
-        "1½ tsp salt"
-      ],
-      [
-        "",
-        "6 tbsp chopped fresh cilantro"
-      ],
-      [
-        "",
-        "1½ cups shredded cheese (cheddar or mexican blend)"
-      ],
-      [
-        "",
-        "Sour cream, for serving"
-      ],
-      [
-        "",
-        "Salsa, for serving"
-      ],
-      [
-        "",
-        "2 boxes Spanish rice mix (such as Vigo or Zatarain's)"
-      ],
-      [
-        "",
-        "Prepared per package directions (typically 2 cups water + 1 tbsp butter per box)"
-      ]
-    ],
+    "title": "Tonight: Leftovers Night",
+    "emoji": "🍽️",
+    "time": "Varies",
+    "temp": "—",
+    "servings": "Family",
+    "ingredients": [],
     "steps": [
-      "Preheat oven to 350°F. Wrap tortillas in foil and bake 15 minutes until heated through.",
-      "Meanwhile, heat oil in a large skillet over medium heat. Add onion, bell pepper, garlic, and jalapeño; cook and stir for 2 minutes.",
-      "Stir in beans and cook until heated through, about 3 minutes. Stir in cream cheese and salt; cook, stirring occasionally, for 2 minutes. Stir in cilantro.",
-      "Spoon filling across the middle of each tortilla. Top with shredded cheese. Fold opposing edges to overlap filling, then roll into a burrito.",
-      "Serve immediately with sour cream and salsa.",
-      "🍚 Spanish Rice (Side)",
-      "Cook Spanish rice per package instructions.",
-      "Serve alongside burritos."
+      "Check the fridge for anything leftover from the week",
+      "Heat up what you find",
+      "Optional: add a fresh side or salad to round it out",
+      "Enjoy a low-key Saturday dinner!"
     ]
   },
   "state": {
