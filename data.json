@@ -1,17 +1,50 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Tonight: Leftovers Night",
+    "title": "Beyond Burgers & Conecuh Sausage Dogs",
     "emoji": "🍽️",
-    "time": "Varies",
-    "temp": "—",
-    "servings": "Family",
-    "ingredients": [],
+    "time": "45 min",
+    "temp": "425°F",
+    "servings": "4 servings",
+    "ingredients": [
+      [
+        "",
+        "1 package Beyond Burgers (4–6 patties)"
+      ],
+      [
+        "",
+        "Burger buns, lettuce, tomato, onion, pickles"
+      ],
+      [
+        "",
+        "Mustard, ketchup, salt + pepper"
+      ],
+      [
+        "",
+        "1 lb Conecuh sausage, hot dog buns"
+      ],
+      [
+        "",
+        "Mustard, ketchup, relish"
+      ],
+      [
+        "",
+        "1 bag frozen crinkle-cut fries"
+      ],
+      [
+        "",
+        "Salt, pepper, garlic powder"
+      ]
+    ],
     "steps": [
-      "Check the fridge for anything leftover from the week",
-      "Heat up what you find",
-      "Optional: add a fresh side or salad to round it out",
-      "Enjoy a low-key Saturday dinner!"
+      "Thaw patties 10–15 min before cooking",
+      "Season with salt + pepper",
+      "Cook on grill or skillet 3–4 min per side",
+      "Toast buns, load with toppings",
+      "Grill or pan-fry sausages until browned and heated through",
+      "Serve on toasted buns with fixings",
+      "Bake at 425°F for 18–22 min, turning halfway",
+      "Season with salt + pepper (or garlic powder)"
     ]
   },
   "state": {
