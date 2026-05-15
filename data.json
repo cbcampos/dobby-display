@@ -1,7 +1,7 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Beyond Burgers & Conecuh Sausage Dogs",
+    "title": "Lemon Garlic Shrimp Linguine",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
@@ -9,42 +9,50 @@
     "ingredients": [
       [
         "",
-        "1 package Beyond Burgers (4–6 patties)"
+        "1 lb linguine pasta"
       ],
       [
         "",
-        "Burger buns, lettuce, tomato, onion, pickles"
+        "1 lb large shrimp, peeled + deveined"
       ],
       [
         "",
-        "Mustard, ketchup, salt + pepper"
+        "4 cloves garlic, minced"
       ],
       [
         "",
-        "1 lb Conecuh sausage, hot dog buns"
+        "1 lemon (juice + zest), ½ cup heavy cream"
       ],
       [
         "",
-        "Mustard, ketchup, relish"
+        "½ cup white wine or chicken broth"
       ],
       [
         "",
-        "1 bag frozen crinkle-cut fries"
+        "2 tbsp olive oil, 2 tbsp butter"
       ],
       [
         "",
-        "Salt, pepper, garlic powder"
+        "Red pepper flakes, salt + pepper"
+      ],
+      [
+        "",
+        "½ cup fresh parsley, chopped"
+      ],
+      [
+        "",
+        "½ cup Parmesan cheese, grated"
       ]
     ],
     "steps": [
-      "Thaw patties 10–15 min before cooking",
-      "Season with salt + pepper",
-      "Cook on grill or skillet 3–4 min per side",
-      "Toast buns, load with toppings",
-      "Grill or pan-fry sausages until browned and heated through",
-      "Serve on toasted buns with fixings",
-      "Bake at 425°F for 18–22 min, turning halfway",
-      "Season with salt + pepper (or garlic powder)"
+      "Cook linguine in salted water per package. Reserve ½ cup pasta water.",
+      "Heat olive oil in large pan over medium heat.",
+      "Sauté garlic 1 min (don't burn).",
+      "Add shrimp, cook 2 min per side until pink. Remove shrimp.",
+      "Add wine/broth, scrape bottom, simmer 2 min.",
+      "Stir in cream, lemon juice + zest, red pepper flakes.",
+      "Add pasta + Parmesan, toss. Add pasta water if needed.",
+      "Return shrimp, top with parsley + extra Parmesan."
     ]
   },
   "state": {
