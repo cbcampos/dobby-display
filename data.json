@@ -1,7 +1,7 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Lemon Garlic Shrimp Linguine",
+    "title": "Grilled Chicken Kebobs",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
@@ -9,50 +9,38 @@
     "ingredients": [
       [
         "",
-        "1 lb linguine pasta"
+        "2½ lb chicken breast, cut into 1.5\" cubes"
       ],
       [
         "",
-        "1 lb large shrimp, peeled + deveined"
+        "2 green bell peppers, 2 red bell peppers"
       ],
       [
         "",
-        "4 cloves garlic, minced"
+        "1 large onion, 2 medium zucchini"
       ],
       [
         "",
-        "1 lemon (juice + zest), ½ cup heavy cream"
+        "2 medium yellow squash, cherry tomatoes"
       ],
       [
         "",
-        "½ cup white wine or chicken broth"
+        "¼ cup olive oil, 2 cloves garlic (minced)"
       ],
       [
         "",
-        "2 tbsp olive oil, 2 tbsp butter"
+        "1 tsp oregano, 1 tsp paprika"
       ],
       [
         "",
-        "Red pepper flakes, salt + pepper"
-      ],
-      [
-        "",
-        "½ cup fresh parsley, chopped"
-      ],
-      [
-        "",
-        "½ cup Parmesan cheese, grated"
+        "1 tbsp lemon juice, salt + pepper"
       ]
     ],
     "steps": [
-      "Cook linguine in salted water per package. Reserve ½ cup pasta water.",
-      "Heat olive oil in large pan over medium heat.",
-      "Sauté garlic 1 min (don't burn).",
-      "Add shrimp, cook 2 min per side until pink. Remove shrimp.",
-      "Add wine/broth, scrape bottom, simmer 2 min.",
-      "Stir in cream, lemon juice + zest, red pepper flakes.",
-      "Add pasta + Parmesan, toss. Add pasta water if needed.",
-      "Return shrimp, top with parsley + extra Parmesan."
+      "Mix marinade. Toss chicken in half, veggies in other half. Marinate 30 min–2 hrs.",
+      "Thread chicken + veggies onto skewers (soak wood skewers first).",
+      "Grill over medium-high heat 12–15 min, turning, until chicken reaches 165°F.",
+      "Optional side: rice pilaf, grilled corn, or roasted potatoes."
     ]
   },
   "state": {
