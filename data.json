@@ -1,68 +1,58 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Dump & Bake Spicy Ramen Soup",
-    "emoji": "🍜",
-    "time": "35–40 min",
-    "temp": "400°F",
-    "servings": "6 servings",
+    "title": "Lemon Garlic Shrimp Linguine",
+    "emoji": "🍽️",
+    "time": "45 min",
+    "temp": "425°F",
+    "servings": "4 servings",
     "ingredients": [
       [
-        "600ml",
-        "coconut milk"
+        "",
+        "1 lb linguine pasta"
       ],
       [
-        "2¼ cups",
-        "chicken stock"
+        "",
+        "1 lb large shrimp, peeled + deveined"
       ],
       [
-        "4 tbsp",
-        "red curry paste"
+        "",
+        "4 cloves garlic, minced"
       ],
       [
-        "3 tbsp",
-        "crunchy peanut butter"
+        "",
+        "1 lemon (juice + zest), ½ cup heavy cream"
       ],
       [
-        "3 tbsp",
-        "soy sauce"
+        "",
+        "½ cup white wine or chicken broth"
       ],
       [
-        "1½ tbsp",
-        "sesame oil"
+        "",
+        "2 tbsp olive oil, 2 tbsp butter"
       ],
       [
-        "1 tbsp",
-        "minced ginger"
+        "",
+        "Red pepper flakes, salt + pepper"
       ],
       [
-        "360g",
-        "ramen noodles"
+        "",
+        "½ cup fresh parsley, chopped"
       ],
       [
-        "375g",
-        "diced chicken breast (optional)"
-      ],
-      [
-        "3 bunches",
-        "bok choy, chopped"
-      ],
-      [
-        "3",
-        "eggs"
-      ],
-      [
-        "to finish",
-        "chilli oil crunch + fresh coriander"
+        "",
+        "½ cup Parmesan cheese, grated"
       ]
     ],
     "steps": [
-      "Preheat oven to 400°F.",
-      "Place coconut milk, chicken stock, curry paste, peanut butter, soy sauce, sesame oil, and ginger into a large baking dish. Whisk until combined.",
-      "Add ramen noodles and press to submerge. Scatter chicken around the noodles, then top with chopped bok choy.",
-      "Cover tightly with foil and bake 15 minutes.",
-      "Remove from oven and loosen noodles with chopsticks. Crack eggs over the top and return to oven, uncovered, 8 to 10 minutes until chicken is cooked through and eggs are set to your liking.",
-      "Drizzle with chilli oil and scatter fresh coriander over the top. Serve directly from the dish."
+      "Cook linguine in salted water per package. Reserve ½ cup pasta water.",
+      "Heat olive oil in large pan over medium heat.",
+      "Sauté garlic 1 min (don't burn).",
+      "Add shrimp, cook 2 min per side until pink. Remove shrimp.",
+      "Add wine/broth, scrape bottom, simmer 2 min.",
+      "Stir in cream, lemon juice + zest, red pepper flakes.",
+      "Add pasta + Parmesan, toss. Add pasta water if needed.",
+      "Return shrimp, top with parsley + extra Parmesan."
     ]
   },
   "state": {
