@@ -1,24 +1,58 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Step Audio Smoke Test",
-    "emoji": "🍲",
-    "time": "2 min",
-    "temp": "medium",
-    "servings": "1",
+    "title": "Lemon Garlic Shrimp Linguine",
+    "emoji": "🍽️",
+    "time": "45 min",
+    "temp": "425°F",
+    "servings": "4 servings",
     "ingredients": [
       [
-        "1 cup",
-        "water"
+        "",
+        "1 lb linguine pasta"
       ],
       [
-        "1 tsp",
-        "salt"
+        "",
+        "1 lb large shrimp, peeled + deveined"
+      ],
+      [
+        "",
+        "4 cloves garlic, minced"
+      ],
+      [
+        "",
+        "1 lemon (juice + zest), ½ cup heavy cream"
+      ],
+      [
+        "",
+        "½ cup white wine or chicken broth"
+      ],
+      [
+        "",
+        "2 tbsp olive oil, 2 tbsp butter"
+      ],
+      [
+        "",
+        "Red pepper flakes, salt + pepper"
+      ],
+      [
+        "",
+        "½ cup fresh parsley, chopped"
+      ],
+      [
+        "",
+        "½ cup Parmesan cheese, grated"
       ]
     ],
     "steps": [
-      "Warm the water for 1 minute.",
-      "Stir in the salt for 30 seconds."
+      "Cook linguine in salted water per package. Reserve ½ cup pasta water.",
+      "Heat olive oil in large pan over medium heat.",
+      "Sauté garlic 1 min (don't burn).",
+      "Add shrimp, cook 2 min per side until pink. Remove shrimp.",
+      "Add wine/broth, scrape bottom, simmer 2 min.",
+      "Stir in cream, lemon juice + zest, red pepper flakes.",
+      "Add pasta + Parmesan, toss. Add pasta water if needed.",
+      "Return shrimp, top with parsley + extra Parmesan."
     ]
   },
   "state": {
