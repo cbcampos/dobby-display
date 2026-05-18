@@ -1,7 +1,7 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Grilled Chicken Kebobs",
+    "title": "Peanut Chicken Bowls",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
@@ -9,38 +9,46 @@
     "ingredients": [
       [
         "",
-        "2½ lb chicken breast, cut into 1.5\" cubes"
+        "¾ cup peanut butter, 6 tbsp soy sauce"
       ],
       [
         "",
-        "2 green bell peppers, 2 red bell peppers"
+        "2 tbsp rice vinegar, 2 tbsp honey"
       ],
       [
         "",
-        "1 large onion, 2 medium zucchini"
+        "2 tbsp sesame oil"
       ],
       [
         "",
-        "2 medium yellow squash, cherry tomatoes"
+        "2½ lb chicken breast (or thighs), cubed"
       ],
       [
         "",
-        "¼ cup olive oil, 2 cloves garlic (minced)"
+        "3 carrots (diced), 1 head broccoli (florets)"
       ],
       [
         "",
-        "1 tsp oregano, 1 tsp paprika"
+        "2 red bell peppers (sliced)"
       ],
       [
         "",
-        "1 tbsp lemon juice, salt + pepper"
+        "2 tbsp fresh ginger (minced), 2 limes (juice), fresh cilantro"
+      ],
+      [
+        "",
+        "1 lb jasmine rice, 2 tbsp olive oil"
       ]
     ],
     "steps": [
-      "Mix marinade. Toss chicken in half, veggies in other half. Marinate 30 min–2 hrs.",
-      "Thread chicken + veggies onto skewers (soak wood skewers first).",
-      "Grill over medium-high heat 12–15 min, turning, until chicken reaches 165°F.",
-      "Optional side: rice pilaf, grilled corn, or roasted potatoes."
+      "Cook rice per package.",
+      "Peanut sauce: whisk peanut butter, soy sauce, rice vinegar, honey, sesame oil, ¼ cup warm water. Thin with water if needed.",
+      "Heat oil in large pan/WOK over high heat.",
+      "Cook chicken in batches (don't crowd) until browned, ~5 min. Set aside.",
+      "In same pan, stir-fry carrots + broccoli 3 min.",
+      "Add peppers + ginger, cook 2 min.",
+      "Return chicken, pour sauce over, toss to coat.",
+      "Serve over rice, garnish with cilantro + lime juice."
     ]
   },
   "state": {
