@@ -1,7 +1,7 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Peanut Chicken Bowls",
+    "title": "Poppyseed Chicken Casserole",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
@@ -9,46 +9,42 @@
     "ingredients": [
       [
         "",
-        "¾ cup peanut butter, 6 tbsp soy sauce"
+        "2½ lb chicken breast"
       ],
       [
         "",
-        "2 tbsp rice vinegar, 2 tbsp honey"
+        "1 cup white rice (uncooked)"
       ],
       [
         "",
-        "2 tbsp sesame oil"
+        "8 oz mushrooms (sliced), 1 medium onion (diced), 2 cloves garlic"
       ],
       [
         "",
-        "2½ lb chicken breast (or thighs), cubed"
+        "8 oz cream cheese (softened), 1 cup sour cream"
       ],
       [
         "",
-        "3 carrots (diced), 1 head broccoli (florets)"
+        "1 cup chicken broth, 2 tbsp poppy seeds"
       ],
       [
         "",
-        "2 red bell peppers (sliced)"
+        "Salt + pepper, garlic powder"
       ],
       [
         "",
-        "2 tbsp fresh ginger (minced), 2 limes (juice), fresh cilantro"
-      ],
-      [
-        "",
-        "1 lb jasmine rice, 2 tbsp olive oil"
+        "1½ cups shredded cheddar cheese"
       ]
     ],
     "steps": [
-      "Cook rice per package.",
-      "Peanut sauce: whisk peanut butter, soy sauce, rice vinegar, honey, sesame oil, ¼ cup warm water. Thin with water if needed.",
-      "Heat oil in large pan/WOK over high heat.",
-      "Cook chicken in batches (don't crowd) until browned, ~5 min. Set aside.",
-      "In same pan, stir-fry carrots + broccoli 3 min.",
-      "Add peppers + ginger, cook 2 min.",
-      "Return chicken, pour sauce over, toss to coat.",
-      "Serve over rice, garnish with cilantro + lime juice."
+      "Preheat oven to 350°F.",
+      "Cook rice: bring 2 cups water + 1 tsp salt to boil, add rice, reduce to simmer, cover 18 min.",
+      "Season chicken with salt + pepper. Bake/pan-sear until cooked through. Shred or dice. Set aside.",
+      "Sauté mushrooms + onion in butter until soft, add garlic 30 sec.",
+      "Mix cream cheese, sour cream, chicken broth, poppy seeds, garlic powder.",
+      "Combine chicken, rice, mushroom mixture, sauce in large bowl. Pour into 9×13\" baking dish.",
+      "Top with cheddar cheese.",
+      "Bake 30–35 min until bubbly."
     ]
   },
   "state": {
