@@ -1,50 +1,19 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Poppyseed Chicken Casserole",
+    "title": "Korean Ground Beef over Sesame Rice",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
-    "servings": "4 servings",
+    "servings": "6",
     "ingredients": [
       [
         "",
-        "2½ lb chicken breast"
-      ],
-      [
-        "",
-        "1 cup white rice (uncooked)"
-      ],
-      [
-        "",
-        "8 oz mushrooms (sliced), 1 medium onion (diced), 2 cloves garlic"
-      ],
-      [
-        "",
-        "8 oz cream cheese (softened), 1 cup sour cream"
-      ],
-      [
-        "",
-        "1 cup chicken broth, 2 tbsp poppy seeds"
-      ],
-      [
-        "",
-        "Salt + pepper, garlic powder"
-      ],
-      [
-        "",
-        "1½ cups shredded cheddar cheese"
+        "1.5 lb ground beef, 5 cloves garlic (minced), 1 tbsp fresh ginger (grated), 1/2 cup soy sauce, 2 tbsp brown sugar, 1 tbsp sesame oil, 2 tbsp rice vinegar, 1/4 cup water, 2 cups steamed white rice, 1 English cucumber (for pickles)"
       ]
     ],
     "steps": [
-      "Preheat oven to 350°F.",
-      "Cook rice: bring 2 cups water + 1 tsp salt to boil, add rice, reduce to simmer, cover 18 min.",
-      "Season chicken with salt + pepper. Bake/pan-sear until cooked through. Shred or dice. Set aside.",
-      "Sauté mushrooms + onion in butter until soft, add garlic 30 sec.",
-      "Mix cream cheese, sour cream, chicken broth, poppy seeds, garlic powder.",
-      "Combine chicken, rice, mushroom mixture, sauce in large bowl. Pour into 9×13\" baking dish.",
-      "Top with cheddar cheese.",
-      "Bake 30–35 min until bubbly."
+      "Brown beef, drain fat. Add garlic and ginger, cook 1 minute. Add soy sauce, brown sugar, sesame oil, rice vinegar, and water. Simmer 8-10 minutes until sauce thickens. Make quick pickled cucumbers: slice cucumber thin, toss with vinegar, sesame oil, and sugar. Let sit 10 minutes. Serve beef over sesame rice, top with cucumbers and sesame seeds."
     ]
   },
   "state": {
