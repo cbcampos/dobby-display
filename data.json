@@ -1,19 +1,51 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Korean Ground Beef over Sesame Rice",
+    "title": "Tuesday: Spaghetti and Meatballs",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
-    "servings": "6",
+    "servings": "4 servings",
     "ingredients": [
       [
         "",
-        "1.5 lb ground beef, 5 cloves garlic (minced), 1 tbsp fresh ginger (grated), 1/2 cup soy sauce, 2 tbsp brown sugar, 1 tbsp sesame oil, 2 tbsp rice vinegar, 1/4 cup water, 2 cups steamed white rice, 1 English cucumber (for pickles)"
+        "1 lb dried spaghetti"
+      ],
+      [
+        "",
+        "1 bag (16 oz) frozen meatballs"
+      ],
+      [
+        "",
+        "1 jar (32 oz) marinara"
+      ],
+      [
+        "",
+        "4 cloves garlic, minced"
+      ],
+      [
+        "",
+        "2 tbsp olive oil"
+      ],
+      [
+        "",
+        "Salt, pepper, Italian seasoning"
+      ],
+      [
+        "",
+        "Garlic bread"
+      ],
+      [
+        "",
+        "Mixed greens with olive oil + red wine vinegar"
       ]
     ],
     "steps": [
-      "Brown beef, drain fat. Add garlic and ginger, cook 1 minute. Add soy sauce, brown sugar, sesame oil, rice vinegar, and water. Simmer 8-10 minutes until sauce thickens. Make quick pickled cucumbers: slice cucumber thin, toss with vinegar, sesame oil, and sugar. Let sit 10 minutes. Serve beef over sesame rice, top with cucumbers and sesame seeds."
+      "Bring large pot salted water to boil. Cook spaghetti per package.",
+      "In large skillet, heat olive oil. Add garlic, cook 1 min until fragrant.",
+      "Pour in marinara, add 1/4 cup water. Add frozen meatballs. Simmer covered 15–18 min, stirring occasionally.",
+      "Drain pasta, toss with sauce. Season to taste.",
+      "Serve with garlic bread and side salad."
     ]
   },
   "state": {
