@@ -1,11 +1,11 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Tuesday: Spaghetti and Meatballs",
+    "title": "Wednesday: Spaghetti and Meatballs",
     "emoji": "🍽️",
-    "time": "45 min",
-    "temp": "425°F",
-    "servings": "4 servings",
+    "time": "35 min",
+    "temp": "350°F",
+    "servings": "6",
     "ingredients": [
       [
         "",
@@ -17,35 +17,26 @@
       ],
       [
         "",
-        "1 jar (32 oz) marinara"
+        "1 jar (32 oz) marinara sauce"
       ],
       [
         "",
-        "4 cloves garlic, minced"
+        "1/2 cup fresh basil, torn"
       ],
       [
         "",
-        "2 tbsp olive oil"
+        "1/4 cup Parmesan, grated"
       ],
       [
         "",
-        "Salt, pepper, Italian seasoning"
-      ],
-      [
-        "",
-        "Garlic bread"
-      ],
-      [
-        "",
-        "Mixed greens with olive oil + red wine vinegar"
+        "Salt, pepper"
       ]
     ],
     "steps": [
-      "Bring large pot salted water to boil. Cook spaghetti per package.",
-      "In large skillet, heat olive oil. Add garlic, cook 1 min until fragrant.",
-      "Pour in marinara, add 1/4 cup water. Add frozen meatballs. Simmer covered 15–18 min, stirring occasionally.",
-      "Drain pasta, toss with sauce. Season to taste.",
-      "Serve with garlic bread and side salad."
+      "Bring large pot of salted water to boil. Cook spaghetti per package until al dente. Reserve 1 cup pasta water before draining.",
+      "In large skillet, add marinara sauce. Simmer over medium heat 5 min. Add meatballs, cover and cook 10–12 min, turning occasionally, until heated through.",
+      "Toss drained spaghetti with sauce. Add pasta water as needed to loosen.",
+      "Serve topped with meatballs, fresh basil, Parmesan."
     ]
   },
   "state": {
