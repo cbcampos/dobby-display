@@ -1,55 +1,51 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Friday: Blackened Shrimp Tacos with Mango Salsa",
+    "title": "Saturday: Garlic Butter Shrimp Scampi over Linguine",
     "emoji": "🍽️",
-    "time": "20 min",
+    "time": "25 min",
     "temp": "350°F",
     "servings": "6",
     "ingredients": [
+      [
+        "",
+        "• 12 oz linguine"
+      ],
       [
         "",
         "• 1.5 lb large shrimp, peeled and deveined"
       ],
       [
         "",
-        "• 2 tbsp olive oil"
+        "• 6 tbsp butter"
       ],
       [
         "",
-        "• 12 small flour tortillas"
+        "• 5 cloves garlic, minced"
       ],
       [
         "",
-        "• 2 mangoes, diced small"
+        "• 1/2 cup dry white wine (or chicken broth)"
       ],
       [
         "",
-        "• 1/2 red onion, diced fine"
+        "• 1 lemon (zest + juice)"
       ],
       [
         "",
-        "• 1 jalapeño, minced"
+        "• 1/4 cup fresh parsley, chopped"
       ],
       [
         "",
-        "• Handful fresh cilantro, chopped"
+        "• Red pepper flakes, salt, pepper"
       ],
       [
         "",
-        "• 2 limes (juice), 1 tsp salt"
-      ],
-      [
-        "• Blackening seasoning",
-        "1 tsp cumin, 1 tsp paprika, 1/2 tsp garlic powder, 1/2 tsp cayenne, 1/2 tsp black pepper"
-      ],
-      [
-        "",
-        "• Shredded cabbage, sour cream, hot sauce"
+        "• 6 cups arugula, 2 tbsp olive oil, 1 tbsp lemon juice, 1 small shallot, sliced"
       ]
     ],
     "steps": [
-      "Make mango salsa: combine mangoes, red onion, jalapeño, cilantro, lime juice, salt. Set aside to meld.|Toss shrimp in blackening seasoning to coat.|Heat cast iron over high heat. Add olive oil. Cook shrimp 2–3 min per side until blackened and pink. Don't overcrowd — work in batches.|Warm tortillas in dry skillet or microwave.|Assemble: tortilla, shrimp, mango salsa, shredded cabbage, sour cream. Add hot sauce to taste."
+      "Cook linguine. Reserve 1/2 cup pasta water before draining.|In large skillet, melt butter over medium. Add garlic, cook 1 min. Add wine, reduce 2 min. Add lemon zest + juice.|Add shrimp, cook 3–4 min per side until pink. Fold in parsley, season with red pepper flakes, salt/pepper.|Toss drained pasta with shrimp and sauce. Add pasta water as needed to loosen.|Make salad: toss arugula with olive oil, lemon juice, shallot, salt/pepper.|Serve scampi over pasta with arugula salad on the side."
     ]
   },
   "state": {
