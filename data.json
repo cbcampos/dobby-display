@@ -1,51 +1,59 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Saturday: Garlic Butter Shrimp Scampi over Linguine",
+    "title": "Monday: Korean Ground Beef over Sesame Rice",
     "emoji": "🍽️",
-    "time": "25 min",
-    "temp": "350°F",
-    "servings": "6",
+    "time": "45 min",
+    "temp": "425°F",
+    "servings": "4 servings",
     "ingredients": [
       [
         "",
-        "• 12 oz linguine"
+        "1.5 lb ground beef"
       ],
       [
         "",
-        "• 1.5 lb large shrimp, peeled and deveined"
+        "1/4 cup soy sauce"
       ],
       [
         "",
-        "• 6 tbsp butter"
+        "2 tbsp brown sugar"
       ],
       [
         "",
-        "• 5 cloves garlic, minced"
+        "1 tbsp sesame oil"
       ],
       [
         "",
-        "• 1/2 cup dry white wine (or chicken broth)"
+        "4 cloves garlic, minced"
       ],
       [
         "",
-        "• 1 lemon (zest + juice)"
+        "1 tbsp fresh ginger, grated"
       ],
       [
         "",
-        "• 1/4 cup fresh parsley, chopped"
+        "2 tbsp gochujang (Korean chili paste)"
       ],
       [
         "",
-        "• Red pepper flakes, salt, pepper"
+        "2 tbsp tomato paste"
       ],
       [
         "",
-        "• 6 cups arugula, 2 tbsp olive oil, 1 tbsp lemon juice, 1 small shallot, sliced"
+        "1 tbsp rice vinegar"
+      ],
+      [
+        "",
+        "To serve: sesame rice, sliced scallions, sesame seeds, quick-pickled cucumbers"
       ]
     ],
     "steps": [
-      "Cook linguine. Reserve 1/2 cup pasta water before draining.|In large skillet, melt butter over medium. Add garlic, cook 1 min. Add wine, reduce 2 min. Add lemon zest + juice.|Add shrimp, cook 3–4 min per side until pink. Fold in parsley, season with red pepper flakes, salt/pepper.|Toss drained pasta with shrimp and sauce. Add pasta water as needed to loosen.|Make salad: toss arugula with olive oil, lemon juice, shallot, salt/pepper.|Serve scampi over pasta with arugula salad on the side."
+      "Make quick-pickled cucumbers: slice 1 cucumber thin, toss with 1 tbsp rice vinegar, 1 tsp sugar, pinch of salt. Set aside.",
+      "Brown ground beef in large skillet over high heat, breaking up as it cooks. Drain excess fat.",
+      "Add garlic and ginger to beef, cook 1 min until fragrant.",
+      "Stir in soy sauce, brown sugar, sesame oil, gochujang, tomato paste, rice vinegar. Simmer 5 min until sauce thickens and coats the beef.",
+      "Serve over sesame rice (cook jasmine rice with 1 tsp sesame oil stirred in). Top with scallions, sesame seeds, pickled cucumbers."
     ]
   },
   "state": {
