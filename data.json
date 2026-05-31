@@ -3,9 +3,9 @@
   "recipe": {
     "title": "Sunday: Super Green Pasta with Strawberry Goat Cheese Salad",
     "emoji": "🍽️",
-    "time": "30 min",
-    "temp": "350°F",
-    "servings": "6",
+    "time": "45 min",
+    "temp": "425°F",
+    "servings": "4 servings",
     "ingredients": [
       [
         "",
@@ -37,7 +37,7 @@
       ],
       [
         "",
-        "2-3 cups sliced strawberries"
+        "2–3 cups sliced strawberries"
       ],
       [
         "",
@@ -53,7 +53,11 @@
       ]
     ],
     "steps": [
-      "Cook pasta. Reserve 1 cup pasta water.|Blanch spinach 30 sec in boiling water, drain. Blend spinach, basil, garlic, olive oil, Parmesan, pasta water until smooth. Season.|Toss hot pasta with green sauce. Add pasta water to desired consistency. Season.|Make dressing: whisk olive oil, balsamic, Dijon. Toss mixed greens with dressing.|Plate: nest of green pasta, strawberry goat cheese salad on side, extra Parmesan."
+      "Cook pasta. Reserve 1 cup pasta water.",
+      "Blanch spinach 30 sec in boiling water, drain. Blend spinach, basil, garlic, olive oil, Parmesan, pasta water until smooth. Season.",
+      "Toss hot pasta with green sauce. Add pasta water to desired consistency. Season.",
+      "Make dressing: whisk olive oil, balsamic, Dijon. Toss mixed greens with dressing.",
+      "Plate: nest of green pasta, strawberry goat cheese salad on side, extra Parmesan."
     ]
   },
   "state": {
