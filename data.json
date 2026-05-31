@@ -1,59 +1,59 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Monday: Korean Ground Beef over Sesame Rice",
+    "title": "Sunday: Super Green Pasta with Strawberry Goat Cheese Salad",
     "emoji": "🍽️",
-    "time": "45 min",
-    "temp": "425°F",
-    "servings": "4 servings",
+    "time": "30 min",
+    "temp": "350°F",
+    "servings": "6",
     "ingredients": [
       [
         "",
-        "1.5 lb ground beef"
+        "12 oz spiral pasta"
       ],
       [
         "",
-        "1/4 cup soy sauce"
+        "6 packed cups fresh spinach"
       ],
       [
         "",
-        "2 tbsp brown sugar"
+        "1.5 cups fresh basil leaves"
       ],
       [
         "",
-        "1 tbsp sesame oil"
+        "3 cloves garlic"
       ],
       [
         "",
-        "4 cloves garlic, minced"
+        "1/4 cup olive oil"
       ],
       [
         "",
-        "1 tbsp fresh ginger, grated"
+        "1/2 cup grated Parmesan + more for serving"
       ],
       [
         "",
-        "2 tbsp gochujang (Korean chili paste)"
+        "1/4 cup water (from pasta)"
       ],
       [
         "",
-        "2 tbsp tomato paste"
+        "2-3 cups sliced strawberries"
       ],
       [
         "",
-        "1 tbsp rice vinegar"
+        "4 oz goat cheese, crumbled"
       ],
       [
         "",
-        "To serve: sesame rice, sliced scallions, sesame seeds, quick-pickled cucumbers"
+        "3 tbsp olive oil (salad), 1.5 tbsp balsamic vinegar, 1 tsp Dijon mustard"
+      ],
+      [
+        "",
+        "6 cups mixed greens"
       ]
     ],
     "steps": [
-      "Make quick-pickled cucumbers: slice 1 cucumber thin, toss with 1 tbsp rice vinegar, 1 tsp sugar, pinch of salt. Set aside.",
-      "Brown ground beef in large skillet over high heat, breaking up as it cooks. Drain excess fat.",
-      "Add garlic and ginger to beef, cook 1 min until fragrant.",
-      "Stir in soy sauce, brown sugar, sesame oil, gochujang, tomato paste, rice vinegar. Simmer 5 min until sauce thickens and coats the beef.",
-      "Serve over sesame rice (cook jasmine rice with 1 tsp sesame oil stirred in). Top with scallions, sesame seeds, pickled cucumbers."
+      "Cook pasta. Reserve 1 cup pasta water.|Blanch spinach 30 sec in boiling water, drain. Blend spinach, basil, garlic, olive oil, Parmesan, pasta water until smooth. Season.|Toss hot pasta with green sauce. Add pasta water to desired consistency. Season.|Make dressing: whisk olive oil, balsamic, Dijon. Toss mixed greens with dressing.|Plate: nest of green pasta, strawberry goat cheese salad on side, extra Parmesan."
     ]
   },
   "state": {
