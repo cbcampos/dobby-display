@@ -1,63 +1,55 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Sunday: Super Green Pasta with Strawberry Goat Cheese Salad",
+    "title": "Friday: Blackened Shrimp Tacos with Mango Salsa",
     "emoji": "🍽️",
-    "time": "45 min",
-    "temp": "425°F",
-    "servings": "4 servings",
+    "time": "25 min",
+    "temp": "350°F",
+    "servings": "6",
     "ingredients": [
       [
         "",
-        "12 oz spiral pasta"
+        "1.5 lb large shrimp, peeled and deveined"
       ],
       [
         "",
-        "6 packed cups fresh spinach"
+        "2 tbsp olive oil"
       ],
       [
         "",
-        "1.5 cups fresh basil leaves"
+        "12 small flour tortillas"
       ],
       [
         "",
-        "3 cloves garlic"
+        "2 mangoes, diced small"
       ],
       [
         "",
-        "1/4 cup olive oil"
+        "1/2 red onion, diced fine"
       ],
       [
         "",
-        "1/2 cup grated Parmesan + more for serving"
+        "1 jalapeño, minced"
       ],
       [
         "",
-        "1/4 cup water (from pasta)"
+        "Handful fresh cilantro, chopped"
       ],
       [
         "",
-        "2–3 cups sliced strawberries"
+        "2 limes (juice), 1 tsp salt"
+      ],
+      [
+        "Blackening seasoning",
+        "1 tsp cumin, 1 tsp paprika, 1/2 tsp garlic powder, 1/2 tsp cayenne, 1/2 tsp black pepper"
       ],
       [
         "",
-        "4 oz goat cheese, crumbled"
-      ],
-      [
-        "",
-        "3 tbsp olive oil (salad), 1.5 tbsp balsamic vinegar, 1 tsp Dijon mustard"
-      ],
-      [
-        "",
-        "6 cups mixed greens"
+        "Shredded cabbage, sour cream, hot sauce"
       ]
     ],
     "steps": [
-      "Cook pasta. Reserve 1 cup pasta water.",
-      "Blanch spinach 30 sec in boiling water, drain. Blend spinach, basil, garlic, olive oil, Parmesan, pasta water until smooth. Season.",
-      "Toss hot pasta with green sauce. Add pasta water to desired consistency. Season.",
-      "Make dressing: whisk olive oil, balsamic, Dijon. Toss mixed greens with dressing.",
-      "Plate: nest of green pasta, strawberry goat cheese salad on side, extra Parmesan."
+      "Make mango salsa: combine mangoes, red onion, jalapeño, cilantro, lime juice, salt. Set aside to meld.|Toss shrimp in blackening seasoning to coat.|Heat cast iron over high heat. Add olive oil. Cook shrimp 2-3 min per side until blackened and pink. Don't overcrowd - work in batches.|Warm tortillas in dry skillet or microwave.|Assemble: tortilla, shrimp, mango salsa, shredded cabbage, sour cream. Add hot sauce to taste."
     ]
   },
   "state": {
