@@ -1,19 +1,72 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Creamy Chicken Orzo",
+    "title": "Friday: Creamy Chicken Orzo",
     "emoji": "🍽️",
-    "time": "30 min",
-    "temp": "350°F",
-    "servings": "6",
+    "time": "45 min",
+    "temp": "425°F",
+    "servings": "4 servings",
     "ingredients": [
       [
         "",
-        "3 large chicken breasts (about 2½ lb) | Salt, pepper, sweet paprika | 1½ tbsp olive oil | 1 tbsp butter | 1 medium onion, diced | 3 cloves garlic, minced | 13 oz orzo | 3 cups chicken broth | 1½ cups water | ¾ cup heavy cream | 6 oz cream cheese, cubed | ½ cup grated Parmesan | ½ cup fresh parsley, chopped"
+        "3 large chicken breasts (about 2½ lb)"
+      ],
+      [
+        "",
+        "Salt, pepper, sweet paprika"
+      ],
+      [
+        "",
+        "1½ tbsp olive oil"
+      ],
+      [
+        "",
+        "1 tbsp butter"
+      ],
+      [
+        "",
+        "1 medium onion, diced"
+      ],
+      [
+        "",
+        "3 cloves garlic, minced"
+      ],
+      [
+        "",
+        "13 oz orzo"
+      ],
+      [
+        "",
+        "3 cups chicken broth"
+      ],
+      [
+        "",
+        "1½ cups water"
+      ],
+      [
+        "",
+        "¾ cup heavy cream"
+      ],
+      [
+        "",
+        "6 oz cream cheese, cubed"
+      ],
+      [
+        "",
+        "½ cup grated Parmesan"
+      ],
+      [
+        "",
+        "½ cup fresh parsley, chopped"
       ]
     ],
     "steps": [
-      "Season chicken. Sear 3–4 min/side in olive oil. Remove, slice. | Melt butter, sauté onion 4 min. Add garlic, cook 1 min. | Toast orzo 1 min. | Add broth + water. Simmer 10–12 min. | Stir in cream cheese, cream, Parmesan, parsley. | Return chicken. Serve."
+      "Season chicken. Sear 3–4 min/side in olive oil. Remove, slice.",
+      "Melt butter, sauté onion 4 min. Add garlic, cook 1 min.",
+      "Toast orzo 1 min.",
+      "Add broth + water. Simmer 10–12 min.",
+      "Stir in cream cheese, cream, Parmesan, parsley.",
+      "Return chicken. Serve."
     ]
   },
   "state": {
