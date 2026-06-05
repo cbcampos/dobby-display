@@ -1,59 +1,67 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Friday: Blackened Shrimp Tacos with Mango Salsa",
+    "title": "Friday: Creamy Chicken Orzo",
     "emoji": "🍽️",
-    "time": "25 min",
+    "time": "30 min",
     "temp": "350°F",
     "servings": "6",
     "ingredients": [
       [
         "",
-        "1.5 lb large shrimp, peeled and deveined"
+        "3 large chicken breasts (about 2½ lb)"
       ],
       [
         "",
-        "2 tbsp olive oil"
+        "Salt, pepper, sweet paprika"
       ],
       [
         "",
-        "12 small flour tortillas"
+        "1½ tbsp olive oil"
       ],
       [
         "",
-        "2 mangoes, diced small"
+        "1 tbsp butter"
       ],
       [
         "",
-        "1/2 red onion, diced fine"
+        "1 medium onion, diced"
       ],
       [
         "",
-        "1 jalapeño, minced"
+        "3 cloves garlic, minced"
       ],
       [
         "",
-        "Handful fresh cilantro, chopped"
+        "13 oz orzo"
       ],
       [
         "",
-        "2 limes (juice), 1 tsp salt"
-      ],
-      [
-        "Blackening seasoning",
-        "1 tsp cumin, 1 tsp paprika, 1/2 tsp garlic powder, 1/2 tsp cayenne, 1/2 tsp black pepper"
+        "3 cups chicken broth"
       ],
       [
         "",
-        "Shredded cabbage, sour cream, hot sauce"
+        "1½ cups water"
+      ],
+      [
+        "",
+        "¾ cup heavy cream"
+      ],
+      [
+        "",
+        "6 oz cream cheese, cubed"
+      ],
+      [
+        "",
+        "½ cup grated Parmesan"
+      ],
+      [
+        "",
+        "½ cup fresh parsley, chopped"
       ]
     ],
     "steps": [
-      "Make mango salsa: combine mangoes, red onion, jalapeño, cilantro, lime juice, salt. Set aside to meld.",
-      "Toss shrimp in blackening seasoning to coat.",
-      "Heat cast iron over high heat. Add olive oil. Cook shrimp 2-3 min per side until blackened and pink. Don't overcrowd - work in batches.",
-      "Warm tortillas in dry skillet or microwave.",
-      "Assemble: tortilla, shrimp, mango salsa, shredded cabbage, sour cream. Add hot sauce to taste."
+      "Season chicken. Sear 3–4 min/side in olive oil. Remove, slice.|Melt butter, sauté onion 4 min. Add garlic, cook 1 min.|Toast orzo 1 min.|Add broth + water. Simmer 10–12 min.|Stir in cream cheese, cream, Parmesan, parsley.|Return chicken. Serve."
     ]
   },
   "state": {
