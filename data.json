@@ -1,7 +1,7 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Saturday: Baked Spaghetti w/ Garlic Bread & Caesar Salad",
+    "title": "Wednesday: Slow Cooker Lasagna Soup (home group night)",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
@@ -9,19 +9,51 @@
     "ingredients": [
       [
         "",
-        "1½ lb spaghetti"
+        "1 lb lean ground beef"
       ],
       [
         "",
-        "2 jars (24 oz) marinara"
+        "1 small onion, diced"
       ],
       [
         "",
-        "1½ cups ricotta"
+        "5 cloves garlic, minced"
       ],
       [
         "",
-        "2 cups shredded mozzarella"
+        "4 cups chicken broth"
+      ],
+      [
+        "",
+        "2 cups marinara sauce"
+      ],
+      [
+        "",
+        "1 can (15 oz) diced tomatoes"
+      ],
+      [
+        "",
+        "1 tsp dried basil"
+      ],
+      [
+        "",
+        "1 tsp dried parsley"
+      ],
+      [
+        "",
+        "½ tsp dried oregano"
+      ],
+      [
+        "",
+        "¼ tsp dried rosemary"
+      ],
+      [
+        "",
+        "8 lasagna noodles, broken"
+      ],
+      [
+        "",
+        "1 tsp balsamic vinegar"
       ],
       [
         "",
@@ -29,32 +61,20 @@
       ],
       [
         "",
-        "1 loaf French bread"
+        "1 cup shredded mozzarella"
       ],
       [
         "",
-        "½ cup butter, softened"
-      ],
-      [
-        "",
-        "4 garlic cloves, minced"
-      ],
-      [
-        "",
-        "Fresh parsley, chopped"
-      ],
-      [
-        "",
-        "1 bag Caesar salad kit"
+        "½ cup ricotta"
       ]
     ],
     "steps": [
-      "Preheat oven to 375°F. Boil spaghetti 1 min shy of al dente, drain.",
-      "Toss hot pasta with marinara, ricotta, 1 cup mozzarella.",
-      "Transfer to 9x13. Top with remaining mozzarella + Parmesan.",
-      "Cover, bake 20 min. Uncover, bake 10 more min.",
-      "Slice French bread, brush with garlic-parsley butter. Toast 5–7 min at 400°F.",
-      "Serve with Caesar salad."
+      "Brown beef with onion, drain. Add garlic, cook 1 min. Transfer to slow cooker.",
+      "Add broth, marinara, tomatoes, herbs. Stir.",
+      "Cook on Low 6–8 hours (or High 3–4).",
+      "Add broken noodles 30 min before serving.",
+      "Stir in balsamic and Parmesan.",
+      "Serve topped with ricotta and mozzarella."
     ]
   },
   "state": {
