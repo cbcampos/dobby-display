@@ -1,81 +1,80 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Creamy Chicken Orzo",
-    "emoji": "🍗",
-    "time": "40 min",
-    "temp": "Medium-High",
+    "title": "Slow Cooker Lasagna Soup",
+    "emoji": "🍲",
+    "time": "Low 6–8 hrs (add noodles 30 min before serving)",
+    "temp": "Crockpot Low",
     "servings": "6 servings",
     "ingredients": [
       [
-        "3 large boneless skinless chicken breasts (about 2½ lb)",
-        "3 large boneless skinless chicken breasts (about 2½ lb)"
+        "1 lb",
+        "1 lb lean ground beef"
       ],
       [
-        "1",
-        "1 tsp salt, plus more to taste"
+        "1 small",
+        "1 small onion, diced"
       ],
       [
-        "1",
-        "1 tsp black pepper"
+        "5 cloves",
+        "5 cloves garlic, minced"
       ],
       [
-        "1",
-        "1 tsp sweet paprika"
+        "4 cups",
+        "4 cups chicken broth"
       ],
       [
-        "1.5 tbsp",
-        "1½ tbsp olive oil"
+        "2 cups",
+        "2 cups marinara sauce"
       ],
       [
-        "1 tbsp",
-        "1 tbsp butter"
+        "1 can (15 oz)",
+        "1 can (15 oz) diced tomatoes"
       ],
       [
-        "1 medium",
-        "1 medium onion, diced"
+        "1 tsp",
+        "1 tsp dried basil"
       ],
       [
-        "3 cloves",
-        "3 cloves garlic, minced"
+        "1 tsp",
+        "1 tsp dried parsley"
       ],
       [
-        "13 oz",
-        "13 oz orzo (about 2 cups)"
+        "0.5 tsp",
+        "½ tsp dried oregano"
       ],
       [
-        "3 cups",
-        "3 cups chicken broth"
+        "0.25 tsp",
+        "¼ tsp dried rosemary"
       ],
       [
-        "1.5 cups",
-        "1½ cups water"
+        "8",
+        "8 lasagna noodles, broken"
       ],
       [
-        "0.75 cup",
-        "¾ cup heavy cream"
-      ],
-      [
-        "6 oz",
-        "6 oz cream cheese, cubed"
+        "1 tsp",
+        "1 tsp balsamic vinegar"
       ],
       [
         "0.5 cup",
         "½ cup grated Parmesan"
       ],
       [
+        "1 cup",
+        "1 cup shredded mozzarella"
+      ],
+      [
         "0.5 cup",
-        "½ cup fresh parsley, chopped"
+        "½ cup ricotta"
       ]
     ],
     "steps": [
-      "Season chicken with salt, pepper, and paprika.",
-      "Heat olive oil in a large skillet over medium-high. Sear chicken 3–4 minutes per side until cooked through. Remove and slice.",
-      "In the same pan, melt butter. Sauté onion until soft, about 4 minutes. Add garlic, cook 1 minute.",
-      "Stir in orzo and toast 1 minute.",
-      "Add broth and water. Simmer 10–12 minutes, stirring occasionally, until orzo is tender.",
-      "Stir in cream cheese, heavy cream, Parmesan, parsley, salt, and pepper.",
-      "Return sliced chicken to pan. Serve warm."
+      "Brown beef with onion, drain. Add garlic, cook 1 min. Transfer to slow cooker.",
+      "Add broth, marinara, tomatoes, herbs. Stir.",
+      "Cook on Low 6–8 hours (or High 3–4).",
+      "Add broken noodles 30 min before serving.",
+      "Stir in balsamic and Parmesan.",
+      "Serve topped with ricotta and mozzarella."
     ]
   },
   "state": {
