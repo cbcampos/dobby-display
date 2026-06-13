@@ -1,7 +1,7 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Friday: Turkey Veggie Meatballs with Sweet Potatoes & Avocado Yogurt Dip",
+    "title": "Saturday: Ground Turkey Taco Soup",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
@@ -9,73 +9,54 @@
     "ingredients": [
       [
         "",
-        "2 lbs ground turkey"
+        "1½ lb ground turkey"
       ],
       [
         "",
-        "1 cup shredded zucchini, squeezed dry"
+        "1½ tbsp olive oil"
       ],
       [
         "",
-        "1 cup shredded carrots"
+        "1 medium onion, diced"
       ],
       [
         "",
-        "1 cup finely chopped spinach"
+        "3 cloves garlic, minced"
       ],
       [
         "",
-        "½ cup breadcrumbs (or oat flour)"
+        "2 tbsp taco seasoning"
       ],
       [
         "",
-        "2 eggs"
+        "2 cans (15 oz) black beans, drained"
       ],
       [
         "",
-        "2 garlic cloves, minced"
+        "1 can (15 oz) corn, drained"
       ],
       [
         "",
-        "½ tsp onion powder"
+        "1 can (15 oz) diced tomatoes"
       ],
       [
         "",
-        "½ tsp paprika"
+        "1 can (15 oz) tomato sauce"
       ],
       [
         "",
-        "Black pepper"
+        "3 cups chicken broth"
       ],
       [
         "",
-        "Olive oil spray"
-      ],
-      [
-        "",
-        "3 large sweet potatoes, cut into wedges"
-      ],
-      [
-        "",
-        "1–2 tbsp olive oil"
-      ],
-      [
-        "",
-        "Pinch cinnamon (optional)"
-      ],
-      [
-        "",
-        "**Avocado Yogurt Dip:** 2 ripe avocados, 1 cup plain Greek yogurt, juice of 1 lime, pinch cumin, salt"
+        "**Toppings:** diced avocado, sour cream, shredded cheese, cilantro, lime wedges, tortilla chips"
       ]
     ],
     "steps": [
-      "Preheat oven to 400°F. Line a sheet pan with parchment.",
-      "Combine turkey, zucchini, carrots, spinach, breadcrumbs, eggs, garlic, onion powder, paprika, pepper in a large bowl. Mix until just combined — don't overwork.",
-      "Form into 1.5-inch meatballs (about 24). Place on one half of the sheet pan. Lightly spray with olive oil.",
-      "On the other half, toss sweet potato wedges with olive oil, cinnamon, and a pinch of salt.",
-      "Bake 25–30 minutes, flipping sweet potatoes halfway, until meatballs reach 165°F internal and sweet potatoes are tender and caramelized.",
-      "**Avocado Yogurt Dip:** Mash or blend avocados with yogurt, lime juice, cumin, and salt until smooth. Chill until serving.",
-      "Serve meatballs with sweet potato wedges and a generous dollop of dip."
+      "In a skillet, brown turkey with onion in olive oil. Add garlic and taco seasoning, cook 1 minute. Drain excess fat.",
+      "Transfer to slow cooker. Add black beans, corn, diced tomatoes, tomato sauce, and chicken broth. Stir well.",
+      "Cover and cook on **Low 4–6 hours** (or High 2–3 hours).",
+      "Taste and adjust salt. Serve in bowls with toppings bar on the side."
     ]
   },
   "state": {
