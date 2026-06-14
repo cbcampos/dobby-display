@@ -1,7 +1,7 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Saturday: Ground Turkey Taco Soup",
+    "title": "Sunday: Spinach & Ricotta Stuffed Shells with Broccoli",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
@@ -9,54 +9,46 @@
     "ingredients": [
       [
         "",
-        "1½ lb ground turkey"
+        "24 jumbo pasta shells"
       ],
       [
         "",
-        "1½ tbsp olive oil"
+        "2 cups ricotta"
       ],
       [
         "",
-        "1 medium onion, diced"
+        "2 cups cooked spinach, squeezed very dry"
       ],
       [
         "",
-        "3 cloves garlic, minced"
+        "½ cup grated Parmesan"
       ],
       [
         "",
-        "2 tbsp taco seasoning"
+        "1 egg"
       ],
       [
         "",
-        "2 cans (15 oz) black beans, drained"
+        "2 cups marinara sauce (plus more if you like it saucier)"
       ],
       [
         "",
-        "1 can (15 oz) corn, drained"
+        "3 broccoli crowns, cut into florets"
       ],
       [
         "",
-        "1 can (15 oz) diced tomatoes"
-      ],
-      [
-        "",
-        "1 can (15 oz) tomato sauce"
-      ],
-      [
-        "",
-        "3 cups chicken broth"
-      ],
-      [
-        "",
-        "**Toppings:** diced avocado, sour cream, shredded cheese, cilantro, lime wedges, tortilla chips"
+        "Olive oil, salt, pepper for broccoli"
       ]
     ],
     "steps": [
-      "In a skillet, brown turkey with onion in olive oil. Add garlic and taco seasoning, cook 1 minute. Drain excess fat.",
-      "Transfer to slow cooker. Add black beans, corn, diced tomatoes, tomato sauce, and chicken broth. Stir well.",
-      "Cover and cook on **Low 4–6 hours** (or High 2–3 hours).",
-      "Taste and adjust salt. Serve in bowls with toppings bar on the side."
+      "Preheat oven to 375°F.",
+      "Bring large pot of salted water to boil. Cook shells until al dente (about 9 minutes). Drain and rinse with cold water to stop cooking. Drizzle with a little olive oil to prevent sticking.",
+      "In a bowl, mix ricotta, spinach, Parmesan, and egg. Season with salt and pepper.",
+      "Spread 1 cup marinara in the bottom of a 9x13 baking dish.",
+      "Spoon about 1 tablespoon of filling into each shell and arrange seam-up in the dish.",
+      "Top with remaining marinara. Cover with foil and bake 20 minutes.",
+      "Meanwhile, toss broccoli florets with olive oil, salt, and pepper. Roast on a sheet pan at 425°F for 15–18 minutes until crisp-tender and lightly charred.",
+      "Serve shells with roasted broccoli on the side."
     ]
   },
   "state": {
