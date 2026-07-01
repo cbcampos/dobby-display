@@ -1,7 +1,7 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Sunday: Spinach & Ricotta Stuffed Shells with Broccoli",
+    "title": "Wednesday: Chicken Alfredo with Penne (from scratch)",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
@@ -9,46 +9,70 @@
     "ingredients": [
       [
         "",
-        "24 jumbo pasta shells"
+        "2½ lbs chicken breast, cut into bite-size pieces"
+      ],
+      [
+        "2 tbsp",
+        "olive oil"
+      ],
+      [
+        "1 tsp",
+        "Italian seasoning"
+      ],
+      [
+        "1 tsp",
+        "garlic powder"
       ],
       [
         "",
-        "2 cups ricotta"
+        "Salt and black pepper"
+      ],
+      [
+        "1.5 lbs",
+        "penne pasta"
+      ],
+      [
+        "1 tbsp",
+        "salt (for pasta water)"
+      ],
+      [
+        "6 tbsp",
+        "unsalted butter"
+      ],
+      [
+        "4 cloves",
+        "garlic, minced"
       ],
       [
         "",
-        "2 cups cooked spinach, squeezed very dry"
+        "1½ cups heavy cream"
       ],
       [
         "",
-        "½ cup grated Parmesan"
+        "1½ cups whole milk"
       ],
       [
         "",
-        "1 egg"
+        "1¼ cups freshly grated Parmesan"
       ],
       [
         "",
-        "2 cups marinara sauce (plus more if you like it saucier)"
+        "¼ tsp ground nutmeg"
       ],
       [
         "",
-        "3 broccoli crowns, cut into florets"
-      ],
-      [
-        "",
-        "Olive oil, salt, pepper for broccoli"
+        "Extra Parmesan and cracked pepper for serving"
       ]
     ],
     "steps": [
-      "Preheat oven to 375°F.",
-      "Bring large pot of salted water to boil. Cook shells until al dente (about 9 minutes). Drain and rinse with cold water to stop cooking. Drizzle with a little olive oil to prevent sticking.",
-      "In a bowl, mix ricotta, spinach, Parmesan, and egg. Season with salt and pepper.",
-      "Spread 1 cup marinara in the bottom of a 9x13 baking dish.",
-      "Spoon about 1 tablespoon of filling into each shell and arrange seam-up in the dish.",
-      "Top with remaining marinara. Cover with foil and bake 20 minutes.",
-      "Meanwhile, toss broccoli florets with olive oil, salt, and pepper. Roast on a sheet pan at 425°F for 15–18 minutes until crisp-tender and lightly charred.",
-      "Serve shells with roasted broccoli on the side."
+      "Pat chicken dry. Toss with olive oil, Italian seasoning, garlic powder, salt, and pepper.",
+      "Heat large skillet over medium-high. Add chicken in a single layer (work in batches). Cook 4–5 minutes per side until golden and internal temp reaches 165°F. Transfer to a plate; tent with foil.",
+      "Bring large pot of water to a boil. Add salt. Cook penne until al dente (about 11 minutes). **Reserve 1 cup pasta water** before draining.",
+      "In the same skillet used for chicken, melt butter over medium. Add garlic; cook 60–90 seconds until fragrant (don't brown).",
+      "Pour in cream and milk. Bring to a gentle simmer (don't boil).",
+      "Whisk in Parmesan a handful at a time until smooth. Add nutmeg. Season with salt and pepper.",
+      "Simmer 2–3 minutes to thicken. Splash in pasta water if too thick.",
+      "Add drained penne and chicken (plus juices) to sauce. Toss gently to coat. Serve with extra Parmesan."
     ]
   },
   "state": {
