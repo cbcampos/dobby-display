@@ -1,78 +1,97 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Wednesday: Chicken Alfredo with Penne (from scratch)",
+    "title": "Thursday: Teriyaki Salmon Rice Bowls",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
     "servings": "4 servings",
     "ingredients": [
       [
+        "3 cups",
+        "cooked jasmine or short-grain white rice (about 1¼ cups dry)"
+      ],
+      [
         "",
-        "2½ lbs chicken breast, cut into bite-size pieces"
+        "2¼ lbs skinless salmon fillets, cut into 1-inch cubes"
       ],
       [
         "2 tbsp",
         "olive oil"
       ],
       [
-        "1 tsp",
-        "Italian seasoning"
-      ],
-      [
-        "1 tsp",
-        "garlic powder"
+        "",
+        "Salt and pepper"
       ],
       [
         "",
-        "Salt and black pepper"
+        "⅓ cup soy sauce (low-sodium)"
       ],
       [
-        "1.5 lbs",
-        "penne pasta"
+        "3 tbsp",
+        "honey"
+      ],
+      [
+        "2 tbsp",
+        "rice vinegar"
       ],
       [
         "1 tbsp",
-        "salt (for pasta water)"
+        "brown sugar"
       ],
       [
-        "6 tbsp",
-        "unsalted butter"
+        "1 tbsp",
+        "sesame oil"
       ],
       [
-        "4 cloves",
+        "3 cloves",
         "garlic, minced"
       ],
       [
-        "",
-        "1½ cups heavy cream"
+        "1 tsp",
+        "grated fresh ginger"
+      ],
+      [
+        "1 tbsp",
+        "cornstarch + 2 tbsp cold water"
+      ],
+      [
+        "3 cups",
+        "steamed broccoli florets"
+      ],
+      [
+        "1",
+        "English cucumber, sliced thin"
+      ],
+      [
+        "2",
+        "avocados, sliced"
       ],
       [
         "",
-        "1½ cups whole milk"
+        "1½ cups shredded carrots"
       ],
       [
         "",
-        "1¼ cups freshly grated Parmesan"
+        "1½ cups shelled edamame (steamed)"
       ],
       [
-        "",
-        "¼ tsp ground nutmeg"
+        "2",
+        "green onions, sliced"
       ],
       [
-        "",
-        "Extra Parmesan and cracked pepper for serving"
+        "1 tbsp",
+        "sesame seeds"
       ]
     ],
     "steps": [
-      "Pat chicken dry. Toss with olive oil, Italian seasoning, garlic powder, salt, and pepper.",
-      "Heat large skillet over medium-high. Add chicken in a single layer (work in batches). Cook 4–5 minutes per side until golden and internal temp reaches 165°F. Transfer to a plate; tent with foil.",
-      "Bring large pot of water to a boil. Add salt. Cook penne until al dente (about 11 minutes). **Reserve 1 cup pasta water** before draining.",
-      "In the same skillet used for chicken, melt butter over medium. Add garlic; cook 60–90 seconds until fragrant (don't brown).",
-      "Pour in cream and milk. Bring to a gentle simmer (don't boil).",
-      "Whisk in Parmesan a handful at a time until smooth. Add nutmeg. Season with salt and pepper.",
-      "Simmer 2–3 minutes to thicken. Splash in pasta water if too thick.",
-      "Add drained penne and chicken (plus juices) to sauce. Toss gently to coat. Serve with extra Parmesan."
+      "Rinse rice; cook with 2¼ cups water + pinch of salt. Bring to boil, reduce to low, cover, simmer 15 minutes. Rest 5 minutes, fluff.",
+      "Pat salmon dry; season with salt and pepper.",
+      "Whisk soy sauce, honey, rice vinegar, brown sugar, sesame oil, garlic, ginger in a small bowl.",
+      "Heat olive oil in large skillet over medium-high. Sear salmon 2–3 minutes per side until golden.",
+      "Pour teriyaki sauce over salmon. Simmer. Stir cornstarch slurry; drizzle in. Stir 1–2 minutes until thickened and glossy. Remove from heat.",
+      "Steam broccoli and edamame (5–6 minutes).",
+      "**Assemble bowls:** rice on the bottom, salmon + sauce, then arrange broccoli, cucumber, avocado, carrots, edamame around it. Garnish with green onions and sesame seeds."
     ]
   },
   "state": {
