@@ -1,46 +1,93 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Oops, PB&J Day",
+    "title": "Sunday: Mediterranean Ground Chicken Meatballs with Couscous, Cucumber-Tomato Salad & Tzatziki (Aldi tzatziki)",
     "emoji": "🍽️",
-    "time": "3 min",
-    "temp": "Countertop chic",
-    "servings": "Whoever heard the bread bag first",
+    "time": "45 min",
+    "temp": "425°F",
+    "servings": "4 servings",
     "ingredients": [
       [
-        "2 slices",
-        "bread"
+        "1 1/2 lb",
+        "ground chicken"
       ],
       [
-        "1 heroic smear",
-        "peanut butter"
+        "1/2 cup",
+        "plain breadcrumbs"
       ],
       [
-        "1 equally heroic smear",
-        "jelly"
+        "1",
+        "egg"
       ],
       [
-        "1 handful",
-        "chips or pretzels if morale is low"
+        "2",
+        "garlic cloves, minced"
       ],
       [
-        "1 glass",
-        "milk, almond milk, or vibes"
+        "1 tsp",
+        "dried oregano"
       ],
       [
-        "to taste",
-        "acceptance"
+        "1/2 tsp",
+        "ground cumin"
+      ],
+      [
+        "1 tsp",
+        "salt"
+      ],
+      [
+        "1/2 tsp",
+        "black pepper"
+      ],
+      [
+        "1 1/2 cups",
+        "dry couscous"
+      ],
+      [
+        "2 cups",
+        "chicken broth"
+      ],
+      [
+        "1 tbsp",
+        "olive oil"
+      ],
+      [
+        "",
+        "Pinch salt"
+      ],
+      [
+        "1",
+        "English cucumber, diced"
+      ],
+      [
+        "2",
+        "tomatoes, diced (use 2 of the gazpacho tomatoes)"
+      ],
+      [
+        "Juice of 1/2",
+        "lemon"
+      ],
+      [
+        "1 tbsp",
+        "olive oil"
+      ],
+      [
+        "2 tbsp",
+        "chopped fresh parsley"
+      ],
+      [
+        "",
+        "Salt and pepper"
       ]
     ],
     "steps": [
-      "Realize there is no dinner plan and that everyone is somehow still hungry.",
-      "Reach for the bread with the calm confidence of a person making a legacy meal.",
-      "Spread peanut butter like you're frosting a tiny emergency cake.",
-      "Add jelly until the sandwich feels emotionally supported.",
-      "Close the sandwich and press lightly. This is engineering now.",
-      "Cut it into triangles so it looks intentional and not like a scheduling failure.",
-      "Serve with chips if available, fruit if you're feeling responsible, and zero apologies.",
-      "Tell anyone who asks that tonight's menu is 'rustic pantry tasting.'"
+      "Preheat oven to 400F. Line a sheet pan with parchment.",
+      "Mix chicken, breadcrumbs, egg, garlic, oregano, cumin, salt, pepper until just combined. Don't overmix.",
+      "Form into 18-24 meatballs (about 1.5 inches each).",
+      "Bake 20-25 minutes until internal temp reaches 165F.",
+      "Bring broth to a boil. Stir in couscous, olive oil, and salt. Cover, remove from heat. Rest 5 minutes. Fluff with fork.",
+      "Salad: Toss cucumber, tomatoes, lemon juice, olive oil, parsley, salt, pepper. Chill.",
+      "Couscous on bottom, meatballs on top, salad and tzatziki (from Aldi) on the side. Pass extra tzatziki at the table."
     ]
   },
   "state": {
