@@ -1,93 +1,88 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Sunday: Mediterranean Ground Chicken Meatballs with Couscous, Cucumber-Tomato Salad & Tzatziki (Aldi tzatziki)",
+    "title": "Monday: Classic Gazpacho with Grilled Ham & Cheese Sandwiches",
     "emoji": "🍽️",
     "time": "45 min",
     "temp": "425°F",
     "servings": "4 servings",
     "ingredients": [
       [
-        "1 1/2 lb",
-        "ground chicken"
-      ],
-      [
-        "1/2 cup",
-        "plain breadcrumbs"
+        "3 lbs",
+        "ripe tomatoes (about 6 medium — Roma are classic)"
       ],
       [
         "1",
-        "egg"
+        "English cucumber, peeled and roughly chopped (reserve 1/4 cup finely diced for garnish)"
       ],
       [
-        "2",
-        "garlic cloves, minced"
+        "1",
+        "red bell pepper, roughly chopped (seeds removed)"
+      ],
+      [
+        "1/2",
+        "small red onion, roughly chopped"
+      ],
+      [
+        "2 cloves",
+        "garlic, smashed"
+      ],
+      [
+        "1",
+        "small Fresno chile or jalapeno, seeds removed (optional)"
+      ],
+      [
+        "1/3 cup",
+        "extra-virgin olive oil"
+      ],
+      [
+        "3 tbsp",
+        "red wine vinegar"
       ],
       [
         "1 tsp",
-        "dried oregano"
-      ],
-      [
-        "1/2 tsp",
-        "ground cumin"
+        "honey (optional)"
       ],
       [
         "1 tsp",
-        "salt"
+        "salt, plus more to taste"
       ],
       [
         "1/2 tsp",
         "black pepper"
       ],
       [
-        "1 1/2 cups",
-        "dry couscous"
+        "1/4 cup",
+        "fresh cilantro (optional)"
       ],
       [
-        "2 cups",
-        "chicken broth"
+        "12 slices",
+        "good sandwich bread (sourdough, Texas toast, or country white)"
       ],
       [
-        "1 tbsp",
-        "olive oil"
+        "12 slices",
+        "deli ham (honey ham or black forest)"
       ],
       [
-        "",
-        "Pinch salt"
+        "12 slices",
+        "Swiss, Gruyere, or sharp cheddar cheese"
       ],
       [
-        "1",
-        "English cucumber, diced"
-      ],
-      [
-        "2",
-        "tomatoes, diced (use 2 of the gazpacho tomatoes)"
-      ],
-      [
-        "Juice of 1/2",
-        "lemon"
-      ],
-      [
-        "1 tbsp",
-        "olive oil"
-      ],
-      [
-        "2 tbsp",
-        "chopped fresh parsley"
-      ],
-      [
-        "",
-        "Salt and pepper"
+        "3 tbsp",
+        "softened butter (or mayo for better browning)"
       ]
     ],
     "steps": [
-      "Preheat oven to 400F. Line a sheet pan with parchment.",
-      "Mix chicken, breadcrumbs, egg, garlic, oregano, cumin, salt, pepper until just combined. Don't overmix.",
-      "Form into 18-24 meatballs (about 1.5 inches each).",
-      "Bake 20-25 minutes until internal temp reaches 165F.",
-      "Bring broth to a boil. Stir in couscous, olive oil, and salt. Cover, remove from heat. Rest 5 minutes. Fluff with fork.",
-      "Salad: Toss cucumber, tomatoes, lemon juice, olive oil, parsley, salt, pepper. Chill.",
-      "Couscous on bottom, meatballs on top, salad and tzatziki (from Aldi) on the side. Pass extra tzatziki at the table."
+      "Core and roughly chop tomatoes.",
+      "Add tomatoes, cucumber, bell pepper, onion, garlic, chile, olive oil, vinegar, honey, salt, pepper, and cilantro to a blender. Puree on high 60-90 seconds until smooth.",
+      "Taste and adjust.",
+      "(Optional) Strain through fine-mesh.",
+      "Transfer to sealed container. Refrigerate at least 2 hours.",
+      "Ladle into bowls; top with reserved diced cucumber, diced tomato, drizzle of olive oil, herb leaves.",
+      "Butter one side of each bread slice.",
+      "Build sandwiches: bread (butter side down), cheese, ham, cheese, bread (butter side up).",
+      "Heat skillet over medium-low. Cook 3-4 minutes per side until golden and cheese melts. Cover pan for second side.",
+      "Slice diagonally and serve alongside gazpacho."
     ]
   },
   "state": {
