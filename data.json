@@ -1,45 +1,84 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Chef's Night Off",
+    "title": "Tuesday: Sheet Pan Honey Garlic Chicken Thighs with Roasted Vegetables & Rice",
     "emoji": "🍽️",
-    "time": "7 min",
-    "temp": "Whatever the room is doing",
-    "servings": "One tired household",
+    "time": "45 min",
+    "temp": "425°F",
+    "servings": "4 servings",
     "ingredients": [
       [
+        "",
+        "2½ lbs bone-in chicken thighs (skin-on for crispiness, about 6-8 thighs)"
+      ],
+      [
+        "",
+        "Salt and pepper"
+      ],
+      [
+        "",
+        "⅓ cup honey"
+      ],
+      [
+        "3 tbsp",
+        "soy sauce (low-sodium)"
+      ],
+      [
+        "2 tbsp",
+        "rice vinegar"
+      ],
+      [
+        "4 cloves",
+        "garlic, minced"
+      ],
+      [
+        "1 tbsp",
+        "grated fresh ginger"
+      ],
+      [
+        "1 tsp",
+        "sesame oil"
+      ],
+      [
         "1",
-        "rotisserie chicken you forgot you bought"
+        "large head broccoli, cut into florets"
       ],
       [
-        "1 bowl",
-        "cereal, maybe, if the chicken situation feels too intense"
+        "2",
+        "bell peppers (any color), sliced"
       ],
       [
-        "some",
-        "crackers"
+        "2",
+        "carrots, sliced into rounds"
       ],
       [
-        "1",
-        "mystery yogurt with an acceptable expiration date"
+        "3 tbsp",
+        "olive oil"
       ],
       [
-        "1 splash",
-        "chaos"
+        "",
+        "Salt and pepper"
       ],
       [
-        "several pinches",
-        "lowered standards"
+        "2 cups",
+        "jasmine or long-grain white rice"
+      ],
+      [
+        "",
+        "3½ cups water"
+      ],
+      [
+        "1 tsp",
+        "salt"
       ]
     ],
     "steps": [
-      "Survey the kitchen like a game show contestant who was given no clues.",
-      "Find the easiest edible thing that requires the fewest decisions.",
-      "If rotisserie chicken is present, declare it the main character.",
-      "If not, assemble a highly curated plate of snack-adjacent objects.",
-      "Call the combination 'family-style grazing board' with a straight face.",
-      "Put everything on the table before anyone can ask what the actual plan was.",
-      "Celebrate the fact that no skillet was dirtied in the making of this meal."
+      "**Sauce:** Whisk honey, soy sauce, rice vinegar, garlic, ginger, sesame oil in a small bowl. Set aside.",
+      "**Chicken:** Preheat oven to 425°F. Pat chicken thighs dry, season generously with salt and pepper. Place skin-side up on one side of a large rimmed sheet pan.",
+      "**Veggies:** In a large bowl, toss broccoli, bell peppers, carrots with olive oil, salt, pepper. Spread on the other side of the sheet pan (in a single layer if possible).",
+      "**Bake:** Brush half the honey garlic sauce over chicken thighs. Roast 25-30 min (chicken should reach 175°F internal and skin should be crispy), brushing with more sauce at the halfway point. Stir veggies halfway through so they cook evenly.",
+      "**Rice:** While sheet pan roasts, rinse rice, combine with water and salt in a saucepan. Bring to boil, reduce to low, cover, simmer 15 min. Rest 5 min, fluff with fork.",
+      "**Serve:** Plate rice, top with chicken thighs and roasted veggies. Drizzle remaining honey garlic sauce over everything."
     ]
   },
   "state": {
