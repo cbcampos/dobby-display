@@ -1,45 +1,45 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Chef's Night Off",
+    "title": "Pantry Tasting Menu",
     "emoji": "🍽️",
-    "time": "7 min",
-    "temp": "Whatever the room is doing",
-    "servings": "One tired household",
+    "time": "8 min",
+    "temp": "Steamy, if blessed",
+    "servings": "Dinner, technically",
     "ingredients": [
       [
-        "1",
-        "rotisserie chicken you forgot you bought"
+        "1 box",
+        "mac and cheese if we're lucky"
       ],
       [
         "1 bowl",
-        "cereal, maybe, if the chicken situation feels too intense"
+        "popcorn if we're not"
       ],
       [
-        "some",
-        "crackers"
+        "1 handful",
+        "trail mix pretending to be a side dish"
       ],
       [
-        "1",
-        "mystery yogurt with an acceptable expiration date"
+        "2 tbsp",
+        "butter or optimism"
       ],
       [
-        "1 splash",
-        "chaos"
+        "1 packet",
+        "cheese dust, respectfully"
       ],
       [
-        "several pinches",
-        "lowered standards"
+        "a whisper",
+        "culinary confidence"
       ]
     ],
     "steps": [
-      "Survey the kitchen like a game show contestant who was given no clues.",
-      "Find the easiest edible thing that requires the fewest decisions.",
-      "If rotisserie chicken is present, declare it the main character.",
-      "If not, assemble a highly curated plate of snack-adjacent objects.",
-      "Call the combination 'family-style grazing board' with a straight face.",
-      "Put everything on the table before anyone can ask what the actual plan was.",
-      "Celebrate the fact that no skillet was dirtied in the making of this meal."
+      "Open the pantry and let it reveal your destiny.",
+      "If mac and cheese appears, act like this was the plan all along.",
+      "If only popcorn appears, pivot boldly into movie-theater dinner territory.",
+      "Season with enough confidence that nobody feels invited to object.",
+      "Plate in bowls. Bowls make everything feel more deliberate.",
+      "Announce tonight's experience as a limited-run tasting menu.",
+      "Eat before anyone nominates you to order takeout."
     ]
   },
   "state": {
