@@ -1,46 +1,45 @@
 {
   "mode": "recipe",
   "recipe": {
-    "title": "Oops, PB&J Day",
+    "title": "Chef's Night Off",
     "emoji": "🍽️",
-    "time": "3 min",
-    "temp": "Countertop chic",
-    "servings": "Whoever heard the bread bag first",
+    "time": "7 min",
+    "temp": "Whatever the room is doing",
+    "servings": "One tired household",
     "ingredients": [
       [
-        "2 slices",
-        "bread"
+        "1",
+        "rotisserie chicken you forgot you bought"
       ],
       [
-        "1 heroic smear",
-        "peanut butter"
+        "1 bowl",
+        "cereal, maybe, if the chicken situation feels too intense"
       ],
       [
-        "1 equally heroic smear",
-        "jelly"
+        "some",
+        "crackers"
       ],
       [
-        "1 handful",
-        "chips or pretzels if morale is low"
+        "1",
+        "mystery yogurt with an acceptable expiration date"
       ],
       [
-        "1 glass",
-        "milk, almond milk, or vibes"
+        "1 splash",
+        "chaos"
       ],
       [
-        "to taste",
-        "acceptance"
+        "several pinches",
+        "lowered standards"
       ]
     ],
     "steps": [
-      "Realize there is no dinner plan and that everyone is somehow still hungry.",
-      "Reach for the bread with the calm confidence of a person making a legacy meal.",
-      "Spread peanut butter like you're frosting a tiny emergency cake.",
-      "Add jelly until the sandwich feels emotionally supported.",
-      "Close the sandwich and press lightly. This is engineering now.",
-      "Cut it into triangles so it looks intentional and not like a scheduling failure.",
-      "Serve with chips if available, fruit if you're feeling responsible, and zero apologies.",
-      "Tell anyone who asks that tonight's menu is 'rustic pantry tasting.'"
+      "Survey the kitchen like a game show contestant who was given no clues.",
+      "Find the easiest edible thing that requires the fewest decisions.",
+      "If rotisserie chicken is present, declare it the main character.",
+      "If not, assemble a highly curated plate of snack-adjacent objects.",
+      "Call the combination 'family-style grazing board' with a straight face.",
+      "Put everything on the table before anyone can ask what the actual plan was.",
+      "Celebrate the fact that no skillet was dirtied in the making of this meal."
     ]
   },
   "state": {
