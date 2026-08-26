@@ -1,48 +1,11 @@
 {
-  "mode": "recipe",
-  "recipe": {
-    "title": "Pantry Tasting Menu",
-    "emoji": "🍽️",
-    "time": "8 min",
-    "temp": "Steamy, if blessed",
-    "servings": "Dinner, technically",
-    "ingredients": [
-      [
-        "1 box",
-        "mac and cheese if we're lucky"
-      ],
-      [
-        "1 bowl",
-        "popcorn if we're not"
-      ],
-      [
-        "1 handful",
-        "trail mix pretending to be a side dish"
-      ],
-      [
-        "2 tbsp",
-        "butter or optimism"
-      ],
-      [
-        "1 packet",
-        "cheese dust, respectfully"
-      ],
-      [
-        "a whisper",
-        "culinary confidence"
-      ]
-    ],
-    "steps": [
-      "Open the pantry and let it reveal your destiny.",
-      "If mac and cheese appears, act like this was the plan all along.",
-      "If only popcorn appears, pivot boldly into movie-theater dinner territory.",
-      "Season with enough confidence that nobody feels invited to object.",
-      "Plate in bowls. Bowls make everything feel more deliberate.",
-      "Announce tonight's experience as a limited-run tasting menu.",
-      "Eat before anyone nominates you to order takeout."
-    ]
-  },
-  "state": {
-    "step": 1
-  }
+  "mode": "quickglance",
+  "clock": "7:52 AM",
+  "date": "Wednesday, August 26",
+  "weather_icon": "☀️",
+  "temp": "74",
+  "weather_desc": "Sunny",
+  "events": [],
+  "tasks": [],
+  "dinner": "TBD"
 }
